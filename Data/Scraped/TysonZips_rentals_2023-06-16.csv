@@ -1,0 +1,1779 @@
+TysonZip,Address1,Address2,Style,Price,Beds,Baths,Sqft
+73701,1201 E Broadway Ave Apt B,"Enid, OK 73701",House,600,1,1,956
+73701,1201 E Broadway Ave Apt J,"Enid, OK 73701",House,695,1,1,
+73701,1910 N Grand St,"Enid, OK 73701",House,2000,2,1,
+73701,724 E Park St,"Enid, OK 73701",House,750,4,1,1536
+73701,3670 Antelope Dr,"Enid, OK 73701",House,1050,3,1.5,1095
+73701,401 S 19th St,"Enid, OK 73701",House,495,2,1,829
+73701,1306 Nancy Dr,"Enid, OK 73701",House,725,2,1,890
+73701,410/412 E Oak Ave Unit 412,"Enid, OK 73701",Duplex/Triplex,750,2,1,900
+73701,418 Addington,"Enid, OK 73701",House,2000,3,2,1780
+73701,1713 N Quincy St,"Enid, OK 73701",House,695,2,1,
+35950,1006 W Main St,"Albertville, AL 35950",House,1995,6,3,2777
+35950,306 E McCord Ave,"Albertville, AL 35950",House,3195,6,3,2928
+35950,301 W Main St Ste B,"Albertville, AL 35950",Other,5000,Studio,0.5+,6111
+79108,10505 Broadway Dr Trlr C,"Amarillo, TX 79108",Other,825,2,1,924
+79108,4611 Dumas Dr,"Amarillo, TX 79108",Other,845,2,1,
+79108,4417 Brown Ave,"Amarillo, TX 79108",House,2299,4,2,2775
+79108,10505 Broadway Dr,"Amarillo, TX 79108",Other,850,2,1,
+79108,8403 N Highway 287,"Amarillo, TX 79108",Other,925,3,2,
+79108,,,House,2500,4,3.5,2902
+44001,44840 N Ridge Rd,"Amherst, OH 44001",House,1200,2,1,
+44001,570 Fieldstone Dr,"Amherst, OH 44001",House,1900,3,2,2000
+44001,2001 Cooper Foster Park Rd Apt 304,"Amherst, OH 44001",Apartment,750,1,1,485
+44001,31 Westwoods,"Amherst, OH 44001",Apartment,1140,2,1 - 2,
+44001,31 Westwoods,"Amherst, OH 44001",Apartment,1565,4,1 - 2,
+44001,855 Cleveland Ave Unit 855,"Amherst, OH 44001",Apartment,1400,3,1,
+44001,2001 Cooper Foster Park Rd Ste 1,"Amherst, OH 44001",Apartment,750,1,1,485
+44001,2001 Cooper Foster Park Rd Apt 301,"Amherst, OH 44001",Apartment,750,1,1,485
+44001,7055 Quarry Rd,"Amherst, OH 44001",Apartment,830,1,1,560
+44001,7055 Quarry Rd,"Amherst, OH 44001",Apartment,1499,4,2,1344
+44001,855 Cleveland Ave Unit 859,"Amherst, OH 44001",Apartment,1200,2,1,700
+72764,726 E Emma Ave,"Springdale, AR 72764",Apartment,1075,Studio,1,497
+72764,726 E Emma Ave,"Springdale, AR 72764",Apartment,1650,1,1,554
+72764,3324 S Old Missouri Rd,"Springdale, AR 72764",Apartment,1469,2 - 3,2,861 - 1137
+72764,3702-B Locksley St,"Springdale, AR 72764",Apartment,1500,3,2,1477 - 1483
+72764,3702-B Locksley St,"Springdale, AR 72764",Apartment,1550,3,2,1477 - 1483
+72764,3810 S Thompson Ave Unit 7,"Springdale, AR 72764",House,750,2,1,
+72764,3810 S Thompson Ave Unit 6,"Springdale, AR 72764",House,1000,2,1,
+72764,1517 Electric Ave,"Springdale, AR 72764",Apartment,774,Studio,1,540
+72764,1517 Electric Ave,"Springdale, AR 72764",Apartment,1328,2,2,960
+72764,514 Butterfield Coach Rd,"Springdale, AR 72764",Apartment,1330,1 - 2,1 - 2,825 - 1025
+72764,3810 S Thompson Ave Unit 32,"Springdale, AR 72764",House,925,2,1,
+72764,3810 S Thompson Ave Unit 5,"Springdale, AR 72764",House,1000,2,1,
+72764,3810 S Thompson Ave Unit 35,"Springdale, AR 72764",House,1000,2,1,
+72764,711 Mountain View Ave,"Springdale, AR 72764",House,1350,3,2,1091
+72764,483 Branchwood Ave,"Springdale, AR 72764",House,1595,3,2,1502
+72764,315 Texas Ln Apt 203,"Springdale, AR 72764",Condo,865,2,1,676
+72764,1980 Friendship Wc 571 Rd,"Springdale, AR 72764",House,1800,3,2,2004
+72764,316 Erin Pl Apt 202,"Springdale, AR 72764",Condo,1100,2,1,974
+72764,315 Texas Ln Apt 106,"Springdale, AR 72764",Condo,1229,3,2,1280
+72764,1571 Shannon St Unit B,"Springdale, AR 72764",Other,900,2,1,1995
+72764,302 S Shiloh St,"Springdale, AR 72764",House,3000,3,2.5,2285
+72764,Hidden Lake St,"Springdale, AR 72764",Apartment,995,2,2,1180
+72764,1299 Electric Ave,"Springdale, AR 72764",Apartment,774,Studio,1,540
+72764,1299 Electric Ave,"Springdale, AR 72764",Apartment,1312,2,2,960
+72764,2005 Ashlee Dr,"Springdale, AR 72764",Apartment,1795,3,2,1450
+72764,303 Park St,"Springdale, AR 72764",Apartment,Contact For Price,Studio+,,
+72764,202 E Emma Ave,"Springdale, AR 72764",Apartment,925,Studio,1,470
+72764,202 E Emma Ave,"Springdale, AR 72764",Apartment,1710,2,2,1057
+72764,305-317 Berry St,"Springdale, AR 72764",Apartment,795,1,1,400
+72764,3810 S Thompson St Unit 1,"Springdale, AR 72764",Apartment,1000,2,1,
+72764,5325 N Oak St,"Springdale, AR 72764",Apartment,1170,2,2,912
+72764,5325 N Oak St,"Springdale, AR 72764",Apartment,1440,4,2,1333
+72764,Rochester Cir,"Springdale, AR 72764",Apartment,1275,2,2,1200
+72764,2390 Hidden Lake St,"Springdale, AR 72764",Apartment,1350,3,2,1350
+72764,249 Erin Pl,"Springdale, AR 72764",Apartment,1095,2,1,975
+72764,1701 S West End St,"Springdale, AR 72764",Apartment,825,1,1,600 - 692
+72764,1701 S West End St,"Springdale, AR 72764",Apartment,875,1,1,600 - 692
+72764,809 Young St,"Springdale, AR 72764",Apartment,1250,2,1,920
+72764,654 Terry Ave,"Springdale, AR 72764",House,1675,3,2,1384
+72764,811 N Pleasant St,"Springdale, AR 72764",Apartment,900,1,1,560
+72764,811 N Pleasant St,"Springdale, AR 72764",Apartment,1200,2,1,780
+72764,100 Josie Pl,"Springdale, AR 72764",Apartment,1250,3,2,990
+72764,580 E Randall Wobbe Ln,"Springdale, AR 72764",Apartment,1060,2,1,675
+72764,4870 N Castlewood Ln,"Fayetteville, AR 72764",Apartment,1750,3,2,1612
+72764,1406 Oriole St,"Springdale, AR 72764",Apartment,1113,2,1,800
+72764,1406 Oriole St,"Springdale, AR 72764",Apartment,1223,3,2,1152
+72616,208 Ember Dr Apt 2,"Green Forest, AR 72638",Apartment,650,1,1,
+35031,40 Ratliff St Apt 8,"Blountsville, AL 35031",Condo,700,1,1,725
+35031,40 Ratliff St Apt 5,"Blountsville, AL 35031",Condo,820,2,1.5,1017
+42101,1546 Chestnut St,"Bowling Green, KY 42101",Apartment,1200,2,1,
+42101,170 Enterprise Ct,"Bowling Green, KY 42101",Apartment,800,1,1,683
+42101,1799 Russellville Rd,"Bowling Green, KY 42101",Apartment,990,1,1,546
+42101,1799 Russellville Rd,"Bowling Green, KY 42101",Apartment,2140,4,2,1393
+42101,904 Cabell Dr,"Bowling Green, KY 42101",House,800,3,1,
+42101,132 Pebble Ct,"Bowling Green, KY 42101",House,950,2,1.5,1140
+42101,2220 Hickory St,"Bowling Green, KY 42101",Apartment,1050,2,2,957
+42101,2220 Hickory St,"Bowling Green, KY 42101",Apartment,1100,2,2,957
+42101,2236 Hickory St,"Bowling Green, KY 42101",Apartment,1050,2,2,957
+42101,122 Pebble Ct,"Bowling Green, KY 42101",House,950,2,1.5,1147
+42101,1271 Kentucky St,"Bowling Green, KY 42101",Other,Contact For Price,,,
+42101,508 Wren Rd,"Bowling Green, KY 42101",House,1300,3,1,1125
+42101,560 Labrador Dr,"Bowling Green, KY 42101",House,1825,3,2,1430
+42101,1625 Parkside Dr,"Bowling Green, KY 42101",Apartment,600,1,1,
+42101,4487 Wilford Ln Unit B,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,4490 Wilford Ln Unit B,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,255 Walnut Creek Ct Unit 255,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,4548 Wal Valley Way Unit B,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,4451 Wilford Ln Unit B,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,213 Walnut Creek Ct Unit 213,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,261 Walnut Creek Ct Unit 261,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,112 Walnut Creek Ct Unit 112,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,134 Westwood Cir Apt C,"Bowling Green, KY 42101",Condo/Townhome,950,2,2,1100
+42101,3213 S Oak St Unit 1,"Bowling Green, KY 42101",House,2650,3,3,2000
+42101,367 Upper Stone Ave Apt C,"Bowling Green, KY 42101",Apartment,790,1,1,800
+42101,559 Walnut Creek Dr Unit 559,"Bowling Green, KY 42101",Townhome,1450,3,2.5,1300
+42101,100 Walnut Creek Ct Unit 100,"Bowling Green, KY 42101",Townhome,1450,3,2.5,1300
+42101,4527 Wal Valley Way Unit B,"Bowling Green, KY 42101",Townhome,1550,3,2.5,1350
+42101,124 Walnut Creek Ct Unit 124,"Bowling Green, KY 42101",Townhome,1450,3,2.5,1350
+42101,517 White Dogwood Dr,"Bowling Green, KY 42101",House,1895,3,2,1871
+42101,505 White Dogwood Dr,"Bowling Green, KY 42101",House,1895,3,2,1871
+42101,324 Gatewood Ave,"Bowling Green, KY 42101",House,1800,4,2,1585
+42101,218 Kelly Rd Unit K74,"Bowling Green, KY 42101",Apartment,745,1,1,630
+42101,4485 Wal Valley Way Unit A,"Bowling Green, KY 42101",Townhome,1550,3,2.5,1300
+42101,324 Walnut Creek Ct Unit 324,"Bowling Green, KY 42101",Townhome,1450,3,2.5,1300
+42101,218 Kelly Rd Unit J63,"Bowling Green, KY 42101",Apartment,775,1,1,630
+42101,312 Cedar Hollow Dr Unit 1,"Bowling Green, KY 42101",House,1750,3,2,1450
+42101,4497 Wal Valley Way Unit A,"Bowling Green, KY 42101",Townhome,1550,3,2.5,1350
+42101,377 Cedar Run St,"Bowling Green, KY 42101",House,1750,3,2,1375
+42101,1411 High St # 111-1,"Bowling Green, KY 42101",Other,2100,4,2,
+42101,,,Apartment,600,1,1,
+42101,6002 Russellville Rd,"Bowling Green, KY 42101",Apartment,825,1,1,695
+42101,1555 Chestnut St,"Bowling Green, KY 42101",Apartment,699,1,1,
+42101,6541 Fortuna Ct,"Bowling Green, KY 42101",Other,1795,3,2,1319
+42101,324 Gatewood Ave,"Bowling Green, KY 42101",House,1800,4,2,1585
+42101,6002 Russellville Rd Apt 521,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,6002 Russellville Rd Apt 223,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,429 Upper Stone Ave Apt C,"Bowling Green, KY 42101",Apartment,875,2,2,850
+42101,6002 Russellville Rd # 621,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,6002 Russellville Rd # 622,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,260 Walnut Creek Dr Apt B09,"Bowling Green, KY 42101",Apartment,875,2,2,936
+42101,6002 Russellville Rd Apt 224,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,6002 Russellville Rd # 624,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,6002 Russellville Rd # 524,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,6002 Russellville Rd # 623,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,4487 Wilford Ln Unit B,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,4490 Wilford Ln Unit B,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,261 Walnut Creek Ct Unit 261,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,255 Walnut Creek Ct Unit 255,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,4451 Wilford Ln Unit B,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,4548 Wal Valley Way Unit B,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,213 Walnut Creek Ct Unit 213,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,112 Walnut Creek Ct Unit 112,"Bowling Green, KY 42101",Townhome,1200,2,2,1100
+42101,559 Walnut Creek Dr Unit 559,"Bowling Green, KY 42101",Townhome,1450,3,2.5,1300
+42101,100 Walnut Creek Ct Unit 100,"Bowling Green, KY 42101",Townhome,1450,3,2.5,1300
+42101,4527 Wal Valley Way Unit B,"Bowling Green, KY 42101",Townhome,1550,3,2.5,1350
+42101,4497 Wal Valley Way Unit A,"Bowling Green, KY 42101",Townhome,1550,3,2.5,1350
+42101,124 Walnut Creek Ct Unit 124,"Bowling Green, KY 42101",Townhome,1450,3,2.5,1350
+42101,4485 Wal Valley Way Unit A,"Bowling Green, KY 42101",Townhome,1550,3,2.5,1300
+42101,324 Walnut Creek Ct Unit 324,"Bowling Green, KY 42101",Townhome,1450,3,2.5,1300
+42101,2363 Foxridge Ct Apt 522,"Bowling Green, KY 42101",Apartment,825,1,1,695
+42101,218 Kelly Rd Unit J63,"Bowling Green, KY 42101",Apartment,775,1,1,630
+42101,218 Kelly Rd Unit K74,"Bowling Green, KY 42101",Apartment,745,1,1,630
+42101,2706 Torridge Ave # 2706-14,"Bowling Green, KY 42101",Apartment,615,1,1,600
+42101,210 Creekwood Ave Apt B,"Bowling Green, KY 42101",Apartment,1250,2,2,1214
+42101,6068 Louisville Rd Apt 4,"Bowling Green, KY 42101",Apartment,825,1,1,765
+42101,216 Moss View St Apt C,"Bowling Green, KY 42101",Apartment,1250,2,2,1198
+42101,403 Topmiller Ave,"Bowling Green, KY 42101",Apartment,800,1,1,
+42101,403 Topmiller Ave,"Bowling Green, KY 42101",Apartment,900,2,1,
+42101,367 Upper Stone Ave Apt C,"Bowling Green, KY 42101",Apartment,790,1,1,800
+42101,705 Village Creek Dr Apt A,"Bowling Green, KY 42101",Other,1550,3,2,1327
+42101,6068 Louisville Rd Apt 56,"Bowling Green, KY 42101",Apartment,985,2,2,1052
+42101,348 Upper Stone Ave Apt E,"Bowling Green, KY 42101",Apartment,900,2,2,1200
+42101,343 Upper Stone Ave Apt F,"Bowling Green, KY 42101",Apartment,790,1,1,800
+42101,2175 Prospector Ct,"Bowling Green, KY 42101",Apartment,900,1,1,561
+42101,2175 Prospector Ct,"Bowling Green, KY 42101",Apartment,1100,2,2,980
+42101,271 Spring Creek Ave Apt C,"Bowling Green, KY 42101",Apartment,1100,2,2,969
+42101,271 Spring Creek Ave Apt B,"Bowling Green, KY 42101",Apartment,1250,2,2,1214
+42101,6068 Louisville Rd Apt 56,"Bowling Green, KY 42101",Apartment,985,2,2,1052
+42101,271 Spring Creek Ave Apt C,"Bowling Green, KY 42101",Apartment,1100,2,2,969
+42101,6068 Louisville Rd Apt 50,"Bowling Green, KY 42101",Apartment,985,2,2,1052
+42101,2363 Foxridge Ct Apt 1021,"Bowling Green, KY 42101",Apartment,1025,2,2,977
+42101,271 Spring Creek Ave Apt D,"Bowling Green, KY 42101",Apartment,1100,2,2,969
+42101,210 Creekwood Ave Apt B,"Bowling Green, KY 42101",Apartment,1250,2,2,1214
+42101,2363 Foxridge Ct Apt 321,"Bowling Green, KY 42101",Apartment,1025,2,2,977
+42101,5002 Worth Way,"Bowling Green, KY 42101",Apartment,750,1,1,633
+42101,2363 Foxridge Ct Apt 612,"Bowling Green, KY 42101",Apartment,1025,2,2,977
+42101,2363 Foxridge Ct Apt 311,"Bowling Green, KY 42101",Apartment,1025,2,2,977
+42101,156 Enterprise Ct,"Bowling Green, KY 42101",Apartment,900,2,1,827
+42101,156 Enterprise Ct,"Bowling Green, KY 42101",Apartment,1000,2,1,827
+42101,6002 Russellville Rd Apt 312,"Bowling Green, KY 42101",Apartment,1025,2,2,977
+42101,2363 Foxridge Ct Apt 323,"Bowling Green, KY 42101",Apartment,1025,2,2,977
+42101,2363 Foxridge Ct Apt 313,"Bowling Green, KY 42101",Apartment,1025,2,2,977
+42101,864 Fairview Ave,"Bowling Green, KY 42101",Apartment,1250,2,2,1000
+42101,2630 Oriole St,"Bowling Green, KY 42101",Apartment,1300,3,2,1680
+42101,2252 Hickory St,"Bowling Green, KY 42101",Apartment,1050,2,2,957
+42101,2252 Hickory St,"Bowling Green, KY 42101",Apartment,1100,2,2,957
+42101,2183 Prospector Ct,"Bowling Green, KY 42101",Apartment,900,1,1,561
+42101,2183 Prospector Ct,"Bowling Green, KY 42101",Apartment,1100,2,2,980
+42101,2191 Prospector Ct,"Bowling Green, KY 42101",Apartment,900,1,1,561
+42101,2191 Prospector Ct,"Bowling Green, KY 42101",Apartment,950,1,1,561
+42101,491 Cornerstone Ave,"Bowling Green, KY 42101",Apartment,1050,2,2,957
+42101,491 Cornerstone Ave,"Bowling Green, KY 42101",Apartment,1100,2,2,957
+42101,144 Enterprise Building Ct # 6,"Bowling Green, KY 42101",Apartment,795,1,1,
+42101,1624 S Sunrise Dr,"Bowling Green, KY 42101",Apartment,700,1,1,565
+42101,233 Hanover Ct,"Bowling Green, KY 42101",Apartment,1375,4,2,1580
+42101,6002 Russellville Rd Apt 223,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,6002 Russellville Rd # 622,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,6002 Russellville Rd # 621,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,6002 Russellville Rd Apt 521,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,6002 Russellville Rd Apt 224,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,6002 Russellville Rd # 524,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,6002 Russellville Rd # 624,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,6002 Russellville Rd # 623,"Bowling Green, KY 42101",Apartment,825,1,1,625
+42101,260 Walnut Creek Dr Apt B09,"Bowling Green, KY 42101",Apartment,875,2,2,936
+74728,100 Abby Ln,"Broken Bow, OK 74728",Apartment,718,3,2,1050
+75633,212 Myrle St,"Carthage, TX 75633",House,1600,3,2,1650
+75633,101 Senior Ave,"Carthage, TX 75633",Apartment,492,1,1,
+75633,1100 S Adams St,"Carthage, TX 75633",Apartment,693,2,1,
+62232,125 Idlerun Dr,"Collinsville, IL 62234",Apartment,850,1 - 3,1 - 2,700 - 1000
+62232,35 Roselawn Ave,"Fairview Heights, IL 62208",House,1500,3,2,1024
+62232,806 Cedar St Unit 806A,"Collinsville, IL 62234",Apartment,750,2,1,
+62232,2111 N 59th St,"Washington Park, IL 62204",House,650,2,1,
+62232,320 Ofarrell St,"Collinsville, IL 62234",House,1575,4,2.5,2299
+62232,818 Applewood Creek Dr,"Fairview Heights, IL 62208",House,2995,3,3,2400
+62232,822 Applewood Creek Dr,"Fairview Heights, IL 62208",House,2995,3,3,2400
+62232,212 S Chestnut St Apt 3,"Collinsville, IL 62234",Apartment,750,1,1,720
+62232,204 St Louis Rd,"Collinsville, IL 62234",Apartment,650,1,1,600
+62232,218 S Morrison Ave Unit A,"Collinsville, IL 62234",Townhome,925,1,1,550
+62232,540 Highland View Dr,"O'Fallon, IL 62269",House,2795,4,2.5,2104
+75935,705 Clifford St,"Center, TX 75935",Apartment,525,2,1,
+39183,1215 Adams St,"Vicksburg, MS 39183",Other,1400,1,1,
+39183,2501 Culkin Rd,"Vicksburg, MS 39183",Apartment,849,1,1,560
+39183,2501 Culkin Rd,"Vicksburg, MS 39183",Apartment,1099,3,2,1100
+39183,4223 I20 Frontage Rd,"Vicksburg, MS 39183",Apartment,1145,1,1,896
+39183,4223 I20 Frontage Rd,"Vicksburg, MS 39183",Apartment,1345,3,2,1448
+39183,4225 20 Frontage Rd,"Vicksburg, MS 39183",Apartment,980,1,1,900
+39183,4225 20 Frontage Rd,"Vicksburg, MS 39183",Apartment,1250,3,2,1100
+60641,4050 N Milwaukee Ave,"Chicago, IL 60641",Apartment,1250,Studio+,1,445
+60641,4325 N Cicero Ave,"Chicago, IL 60641",Condo/Townhome,2570,2,2,1500
+60641,,,House,1575,2,1,1100
+60641,5325 W Montrose Ave Apt 2,"Chicago, IL 60641",Apartment,1950,3,1,1200
+60641,3925 N Keeler Ave,"Chicago, IL 60641",Apartment,1450,1 - 2,1,845
+60641,3404 N Lavergne Ave Unit 2F,"Chicago, IL 60641",Apartment,3500,5,2,1700
+60641,4821 W Cornelia Ave,"Chicago, IL 60641",Apartment,1975,3,1,1100
+60641,4326 N Kedvale Ave Apt F,"Chicago, IL 60641",Townhome,2795,3,1.5,
+60641,5301 W Newport Ave Unit 1R,"Chicago, IL 60641",Apartment,1450,2,1,750
+60641,4338 N Milwaukee Ave,"Chicago, IL 60641",Apartment,995,Studio+,1,500
+60641,3035 N Kilpatrick Ave Unit 1,"Chicago, IL 60641",House,2250,3,2,
+60641,3816 N Long Ave,"Chicago, IL 60641",Apartment,1275,2,1,775
+60641,5518 W Barry Ave,"Chicago, IL 60641",Apartment,1095,1,1,
+60641,3019 N Keating Ave Unit 2,"Chicago, IL 60641",House,1250,2,1,1200
+60641,4350 N Cicero Ave,"Chicago, IL 60641",Apartment,1450,1,1,650
+60641,2958 N Pulaski Rd Unit 2,"Chicago, IL 60641",House,2400,3,1,1200
+60641,4101 N Cicero Ave,"Chicago, IL 60641",Apartment,1425,2,1,650
+60641,5065 W Pensacola Ave Unit 1,"Chicago, IL 60641",House,1700,2,1,
+60641,4121 W Cullom Ave,"Chicago, IL 60641",Apartment,1295,1,1,
+60641,4415 W Waveland Ave,"Chicago, IL 60641",House,4990,4,3.5,2000
+60641,4900 W Berteau Ave Apt 2,"Chicago, IL 60641",Apartment,1950,3,1,
+60641,3558 N Long Ave Unit 1W,"Chicago, IL 60641",Condo,2250,3,2.5,
+60641,4300 W Montrose Ave Unit 2,"Chicago, IL 60641",Apartment,5000,5,2,2600
+60641,4300 W Montrose Ave,"Chicago, IL 60641",Apartment,5000,5,2,2620
+60641,4300 W Montrose Ave Unit 4,"Chicago, IL 60641",Apartment,5000,5,2,2600
+60641,3450 N Lowell Ave Apt 1,"Chicago, IL 60641",Apartment,1725,3,1,
+60641,4819-21 W Cornelia Ave Unit 4821-1,"Chicago, IL 60641",Apartment,1850,3,1,1000
+60641,5025 W Berenice Ave Unit 2R,"Chicago, IL 60641",Apartment,1550,2,1,750
+60641,3736 N Keeler Ave Unit 2,"Chicago, IL 60641",Apartment,2495,3,1,
+60641,3320 N Leclaire Ave Unit 1N,"Chicago, IL 60641",Apartment,1750,3,1,
+60641,4237 W Nelson St Unit 4237-2,"Chicago, IL 60641",Apartment,1240,2,1,
+60641,2925 N Long Ave Unit AF2925-1,"Chicago, IL 60641",Apartment,1425,2,1,
+60641,4230 W Nelson St Unit 4230-2,"Chicago, IL 60641",Apartment,1480,2,1,
+60641,4819-21 W Cornelia Ave Unit 4819-1,"Chicago, IL 60641",Apartment,1550,2,1,
+60641,4252 W Nelson St Unit 4252-2,"Chicago, IL 60641",Apartment,1480,2,1,
+60641,5201 W Cullom Ave Apt 3,"Chicago, IL 60641",Apartment,2292,3,2,
+60641,4244 W Nelson St Unit 4244-2,"Chicago, IL 60641",Apartment,1480,2,1,
+60641,3058 N Kostner Ave Apt 1W,"Chicago, IL 60641",Apartment,1470,2,1,900
+60641,3035 N Karlov Ave Unit 1,"Chicago, IL 60641",Apartment,1600,2,1,1200
+60641,3318 N Leclaire Ave Unit 1S,"Chicago, IL 60641",Apartment,1625,2,1,
+60641,2807 N Kilbourn Ave Apt 2N,"Chicago, IL 60641",Apartment,1200,2,1,
+60641,4254 W Nelson St Unit 4254-1,"Chicago, IL 60641",Apartment,1615,2,1,
+60641,2807 N Kilbourn Ave Apt 2N,"Chicago, IL 60641",Apartment,1200,2,1,
+60641,4254 W Nelson St Unit 4254-1,"Chicago, IL 60641",Apartment,1615,2,1,
+60641,4254 W Nelson St Unit 4254-2,"Chicago, IL 60641",Apartment,1500,2,1,
+60641,4031 W School St Unit B2,"Chicago, IL 60641",Apartment,1275,1,1,900
+60641,4901 W Cullom Ave Unit 4901-3,"Chicago, IL 60641",Apartment,1400,1,1,
+60641,3941 N Keeler Ave Unit 3941-306,"Chicago, IL 60641",Apartment,1855,1,1,
+60641,3250 N Pulaski Rd Apt 314,"Chicago, IL 60641",Apartment,1050,Studio,1,300
+60641,5425 W Montrose Ave Unit 5425S3,"Chicago, IL 60641",Apartment,1250,1,1,
+60641,5427 W Montrose Ave Unit 5427GD,"Chicago, IL 60641",Apartment,1150,1,1,
+60641,4112 N Kedvale Ave Apt Ge,"Chicago, IL 60641",Apartment,1275,1,1,700
+60641,4250 N Lamon Ave Unit 4250-2,"Chicago, IL 60641",Apartment,1300,1,1,
+60641,5423 W Montrose Ave Unit 5423NB,"Chicago, IL 60641",Apartment,1400,2,2,
+60641,4354 N Elston Ave Unit 4354-201,"Chicago, IL 60641",Apartment,1000,Studio,1,500
+60641,3250 N Pulaski Rd Apt 203,"Chicago, IL 60641",Apartment,1050,Studio,1,300
+60641,3250 N Pulaski Rd Apt 210,"Chicago, IL 60641",Apartment,1050,Studio,1,300
+60641,4828 W Addison St Unit E4,"Chicago, IL 60641",Apartment,1150,Studio,1,500
+60641,4828 W Addison St,"Chicago, IL 60641",Apartment,1150,Studio,1,520
+60641,3250 N Pulaski Rd Apt 301,"Chicago, IL 60641",Apartment,1050,Studio,1,300
+60641,4300 W Montrose Ave Unit 200,"Chicago, IL 60641",Condo,5000,5,2,3000
+60641,3320 N Leclaire Ave,"Chicago, IL 60641",Apartment,1995,3,1,950
+60641,4831 W Addison St Apt 3,"Chicago, IL 60641",House,1500,2,1,
+60641,5111 W Montrose Ave,"Chicago, IL 60641",Apartment,1450,2,1,650
+60641,4851 W Nelson St Unit 2,"Chicago, IL 60641",Apartment,1475,2,1,1200
+60641,5257 W Nelson Ave,"Chicago, IL 60641",Apartment,1350,2,1,
+60641,4017 W Melrose St,"Chicago, IL 60641",Apartment,950,Studio+,1,550
+60641,5355 W Eddy St Unit 3,"Chicago, IL 60641",Condo,1300,2,1,1100
+60641,2906 N Kolmar Ave Apt 3,"Chicago, IL 60641",Apartment,1395,1,1,
+60641,3955 N Lamon Ave,"Chicago, IL 60641",Apartment,925,Studio,1,435
+60641,3955 N Lamon Ave,"Chicago, IL 60641",Apartment,1295,1,1,700
+60641,4014-22 W Melrose,"Chicago, IL 60641",Apartment,1250,2,1,
+60641,3054 N Kolmar Ave,"Chicago, IL 60641",Apartment,1250,1,1,825
+60641,4300 N Pulaski Rd Unit 1G,"Chicago, IL 60641",Apartment,1150,1,1,750
+60641,4839 W Addison St Apt 3S,"Chicago, IL 60641",Apartment,1250,1,1,
+60641,3035 N Kilpatrick Ave Unit 2,"Chicago, IL 60641",House,1950,2,1,
+60641,3250 N Pulaski Rd Apt 202,"Chicago, IL 60641",Apartment,1050,Studio,1,
+60641,4010 W Warwick Ave Unit 1,"Chicago, IL 60641",House,3750,3,2,1330
+60641,4239 W Melrose St Unit 1,"Chicago, IL 60641",House,2200,2,1,1100
+60641,3205 N Kildare Ave,"Chicago, IL 60641",Townhome,6825,5,4.5,4210
+60641,3456 N Kedvale Ave Unit 4708-2,"Chicago, IL 60641",Apartment,1150,1,1,750
+60641,4027 W Melrose St Apt 2N,"Chicago, IL 60641",Apartment,1175,1,1,700
+60641,4709-15 W Belmont,"Chicago, IL 60641",Apartment,1250,2,1,
+60641,4037 W Melrose St Apt 1N,"Chicago, IL 60641",Apartment,950,Studio,1,
+60641,4010 W Warwick Ave Unit 2,"Chicago, IL 60641",House,3850,3,2,1330
+60641,4157 W Addison St Unit Ch,"Chicago, IL 60641",Apartment,1850,2,1,
+60641,5257 W Nelson Ave,"Chicago, IL 60641",Apartment,1350,2,1,
+60641,3955 N Lamon Ave,"Chicago, IL 60641",Apartment,925,Studio,1,435
+60641,3955 N Lamon Ave,"Chicago, IL 60641",Apartment,1295,1,1,700
+60641,3222 N Karlov Ave,"Chicago, IL 60641",Apartment,1525,2,1,
+60641,4256 W Belmont Ave,"Chicago, IL 60641",Townhome,6825,5,4.5,
+60641,3054 N Kolmar Ave,"Chicago, IL 60641",Apartment,1250,1,1,825
+60641,4541-43 W Wellington,"Chicago, IL 60641",Apartment,1200,1,1,700
+60641,3015-3025 N Long Ave /5355-5359 W Nelson St,"Chicago, IL 60641",Apartment,1200,1,1,700
+60641,4851 W Nelson St Unit 2,"Chicago, IL 60641",Apartment,1475,2,1,1200
+60641,5160 W Montrose Ave,"Chicago, IL 60641",Apartment,1275,1,1,750
+60641,3145 N Keating Ave Unit 2F,"Chicago, IL 60641",Apartment,1325,2,1,900
+60641,3456 N Kedvale Ave Unit 4708-2,"Chicago, IL 60641",Apartment,1150,1,1,750
+60641,4300 N Pulaski Rd Unit 1G,"Chicago, IL 60641",Apartment,1150,1,1,750
+60641,3456 N Kedvale Ave Unit 3466-1,"Chicago, IL 60641",Apartment,1150,1,1,650
+60641,4823 W Addison St,"Chicago, IL 60641",Apartment,1300,1,1,780
+60641,4823 W Addison St,"Chicago, IL 60641",Apartment,1325,1,1,780
+60641,5225 W Melrose St Unit 1,"Chicago, IL 60641",Apartment,1995,2,1,1500
+60641,4821 W Cornelia Ave Apt 1,"Chicago, IL 60641",Apartment,1850,3,1,1000
+60641,4819-21 W Cornelia Ave Unit 4821-1,"Chicago, IL 60641",Apartment,1850,3,1,1000
+60641,4101 W Berteau Ave Apt 102,"Chicago, IL 60641",Condo,1700,2,1,700
+60641,4210 W Belmont Ave Unit 3,"Chicago, IL 60641",Townhome,4725,3,3.5,1950
+60641,4230 W Belmont Ave,"Chicago, IL 60641",Townhome,4725,3,3.5,1950
+60641,4232 W Belmont Ave Unit 6,"Chicago, IL 60641",Townhome,4725,3,3.5,1950
+60641,4350 N Cicero Ave,"Chicago, IL 60641",Apartment,1450,1,1,650
+60641,4027 W Melrose St Apt 2N,"Chicago, IL 60641",Apartment,1175,1,1,700
+60641,5518 W Barry Ave,"Chicago, IL 60641",Apartment,1095,1,1,
+60641,5225 W Melrose St Unit 2,"Chicago, IL 60641",Apartment,2200,3,1,1500
+60641,4338 N Milwaukee Ave,"Chicago, IL 60641",Apartment,995,Studio+,1,500
+60641,4134 W Addison St Apt 2,"Chicago, IL 60641",Apartment,1550,2,1,850
+60641,3318 N Leclaire Ave Unit 1,"Chicago, IL 60641",Apartment,1625,2,1,900
+60641,5301 W Newport Ave Unit 1R,"Chicago, IL 60641",Apartment,1450,2,1,750
+60641,4017 N Kilbourn Ave Apt 1,"Chicago, IL 60641",Apartment,1750,2,1,1000
+60641,5025 W Berenice Ave Unit 2R,"Chicago, IL 60641",Apartment,1550,2,1,750
+60641,4819 W Cornelia Ave Unit 1,"Chicago, IL 60641",Apartment,1550,2,1,650
+60641,4821 W Cornelia Ave,"Chicago, IL 60641",Apartment,1975,3,1,1100
+60641,4101 N Cicero Ave,"Chicago, IL 60641",Apartment,1425,2,1,650
+60641,3453 N Lowell Ave Unit 1,"Chicago, IL 60641",Apartment,2500,3,1,1050
+60641,5111 W Montrose Ave,"Chicago, IL 60641",Apartment,1450,2,1,650
+60641,3453 N Lowell Ave Unit 2,"Chicago, IL 60641",Apartment,2000,3,1,1050
+60641,3320 N Leclaire Ave,"Chicago, IL 60641",Apartment,1995,3,1,950
+60641,1101 11 W Grace,"Chicago, IL 60641",Apartment,1695,1,1,688
+60641,1101 11 W Grace,"Chicago, IL 60641",Apartment,2295,2,1,696
+60641,5065 W Pensacola Ave Unit 1,"Chicago, IL 60641",House,1700,2,1,
+60641,4354 N Elston Ave Unit 4354-201,"Chicago, IL 60641",Apartment,1000,Studio,1,500
+60641,3145 N Keating Ave Unit 2F,"Chicago, IL 60641",Apartment,1325,2,1,900
+60641,4819 W Cornelia Ave Unit 1,"Chicago, IL 60641",Apartment,1550,2,1,650
+60641,4107 W Melrose St Apt 3,"Chicago, IL 60641",Apartment,1525,2,1,
+60641,4027 N Kilbourn Ave Unit Garden,"Chicago, IL 60641",Apartment,1300,Studio,1,900
+60641,431428 W Irving Park Rd Unit 4320-3,"Chicago, IL 60641",Apartment,1050,Studio,1,600
+60641,4134 W Addison St Apt 2,"Chicago, IL 60641",Apartment,1550,2,1,850
+72756,500 N 7th St,"Rogers, AR 72756",Apartment,2400,2,1,952
+72756,350 N 14th St,"Rogers, AR 72756",House,1095,2,1,896
+72756,346 N 14th St,"Rogers, AR 72756",House,1095,2,1,896
+72756,348 N 14th St,"Rogers, AR 72756",House,1095,2,1,896
+72756,10460 Kays Ln,"Rogers, AR 72756",House,2000,3,2,2002
+72756,1007 N 27th St,"Rogers, AR 72756",House,1900,4,2,1710
+72756,8825 Country Club Dr # 8829,"Rogers, AR 72756",Condo,865,2,1,819
+72756,3604 Mockingbird Ln,"Rogers, AR 72756",House,2000,4,2,1905
+72756,604 N 36th St,"Rogers, AR 72756",Other,1595,3,2,1625
+72756,14800 Dutchmans Dr,"Rogers, AR 72756",Other,1595,2,2,1370
+72756,1204 N 22nd Pl,"Rogers, AR 72756",House,2000,3,2,1920
+72756,101 E Walnut St Ste 213,"Rogers, AR 72756",Condo,1595,1,1,777
+72756,15739 Railroad Cut Rd,"Rogers, AR 72756",House,2900,3,2,1408
+72756,610 N 6th St,"Rogers, AR 72756",Townhome,2550,3,2.5,1600
+72756,14793 Dutchmans Dr,"Rogers, AR 72756",Other,1495,2,2,980
+72756,14791 Dutchmans Dr,"Rogers, AR 72756",Other,1495,2,2,980
+72756,1203 N 37th St,"Rogers, AR 72756",House,2000,3,2,1742
+72756,16698 Cypress Ln,"Rogers, AR 72756",Other,2800,2,2,1440
+72756,601 Valley West Dr,"Rogers, AR 72756",House,1800,3,3,2039
+72756,574 N 24th St,"Rogers, AR 72756",Apartment,1400,2,2,1400
+72756,1603 W Walnut St,"Rogers, AR 72756",Apartment,1019,1,1,654
+72756,1603 W Walnut St,"Rogers, AR 72756",Apartment,1164,3,2,1183
+72756,3509 W Cedar Cir,"Rogers, AR 72756",Apartment,1025,2,2,1200
+45246,11580 Olde Gate Dr,"Cincinnati, OH 45246",Apartment,1205,1,1,900
+45246,11580 Olde Gate Dr,"Cincinnati, OH 45246",Apartment,1530,2,2,1100
+45246,51 Bishopsgate Dr,"Cincinnati, OH 45246",Apartment,1260,1,1,618
+45246,51 Bishopsgate Dr,"Cincinnati, OH 45246",Apartment,1335,2,2,1072
+45246,100 Kelly Rd,"Forest Park, OH 45246",Apartment,1185,Studio,1,646
+45246,100 Kelly Rd,"Forest Park, OH 45246",Apartment,1900,3,2,1398
+45246,1481 Fawnvista Ln,"Cincinnati, OH 45246",House,1990,3,2,1345
+45246,320 Glensprings Dr,"Springdale, OH 45246",Apartment,1500,Studio+,1,300
+45246,1235 Chesterdale Dr,"Cincinnati, OH 45246",Apartment,1033,1,1,740
+45246,1235 Chesterdale Dr,"Cincinnati, OH 45246",Apartment,1422,3,1.5,1160
+45246,12000 12160 Lawnview Ave,"Cincinnati, OH 45246",Apartment,1600,2,2,1360
+45246,11777 Rose Ln,"Cincinnati, OH 45246",Apartment,900,1,1,660
+45246,11777 Rose Ln,"Cincinnati, OH 45246",Apartment,1450,2,2,925
+28610,2985 N Oxford St,"Catawba County, NC 28610",Apartment,450,2,2,959
+28610,2985 N Oxford St,"Catawba County, NC 28610",Apartment,938,4,2,1284
+28610,3018 N Church St,"Claremont, NC 28610",House,1175,2,1,
+41001,8670 E Main St,"Alexandria, KY 41001",House,1975,3,2.5,1440
+41001,9857 Cedar Cove Ln,"Alexandria, KY 41001",House,2545,4,2.5,2788
+39204,1533 Raymond Rd,"Jackson, MS 39204",Apartment,895,1,1,800
+39204,1533 Raymond Rd,"Jackson, MS 39204",Apartment,1050,2,2,1135
+39204,2010 Chadwick Dr,"Jackson, MS 39204",Apartment,925,1,1,896
+39204,2010 Chadwick Dr,"Jackson, MS 39204",Apartment,1250,3,2,1275
+39204,2136 East Dr,"Jackson, MS 39204",House,750,2,1,
+39204,1621 Wood Glen Dr,"Jackson, MS 39204",House,1025,3,2,1974
+39204,245 Shady Cir,"Jackson, MS 39204",House,1025,3,2,1510
+39204,1047 Garden Park Dr,"Jackson, MS 39204",House,1045,3,2,1909
+39204,2059 Cooperwell Dr Unit B,"Jackson, MS 39204",Condo,927,2,2,
+39204,2059 Cooperwell Dr Unit A,"Jackson, MS 39204",Condo,927,2,2,
+39204,2050 Castle Hill Dr,"Jackson, MS 39204",House,1125,3,2,1539
+39204,1765 Dorgan St,"Jackson, MS 39204",House,1095,3,2,1256
+39204,1327 Maria Dr,"Jackson, MS 39204",House,925,3,1,1008
+39204,732 Willaneel Dr,"Jackson, MS 39204",House,950,3,1,988
+39204,219 Pine Lawn Pl,"Jackson, MS 39204",House,885,2,2,1200
+39204,760 Willow St,"Jackson, MS 39204",Apartment,595,1,1,
+39204,760 Willow St,"Jackson, MS 39204",Apartment,695,1,1,
+39204,1142 Raymond Rd,"Jackson, MS 39204",Apartment,750,1,1,816
+39204,1142 Raymond Rd,"Jackson, MS 39204",Apartment,840,2,2,1040
+39204,Highway 80 W,"Jackson, MS 39204",Apartment,Contact For Price,1 - 2,1 - 2,480 - 975
+39204,1595 W Highland Dr,"Jackson, MS 39204",Apartment,799,1,1,735
+39204,1595 W Highland Dr,"Jackson, MS 39204",Apartment,950,2,1,956
+39204,2975 McDowell Road Ext,"Jackson, MS 39204",Apartment,700,1,1,596
+39204,2975 McDowell Road Ext,"Jackson, MS 39204",Apartment,800,2,1,857
+49684,309 W Front St,"Traverse City, MI 49684",Apartment,1191,Studio,1,502
+49684,309 W Front St,"Traverse City, MI 49684",Apartment,2800,2,2,1114
+49684,12300 S Lovell Ln,"Traverse City, MI 49684",Apartment,1919,1,1,768
+49684,12300 S Lovell Ln,"Traverse City, MI 49684",Apartment,2643,2,2,1036
+49684,4170 Hearthside Dr,"Traverse City, MI 49684",Apartment,2600,5,3,1975
+49684,812 Randolph St Unit Lower,"Traverse City, MI 49684",Condo,1975,2,1,1038
+49684,251 E Tenth St,"Traverse City, MI 49684",House,1600,3,1,
+49684,203 N Cedar St,"Traverse City, MI 49684",House,1525,1,1,1450
+49684,612 2nd St Apt B,"Traverse City, MI 49684",House,1775,1,1,
+49684,545 Riverine Dr Apt 304,"Traverse City, MI 49684",House,2175,2,2,950
+49684,124 Beech St Apt 203,"Traverse City, MI 49684",House,1295,1,1,507
+49684,966 Lake Ridge Dr Unit 18,"Traverse City, MI 49684",House,2950,3,2.5,1454
+49684,S West Bayshore Dr,"Traverse City, MI 49684",House,3800,,,
+64020,1505 S St Louis St Unit 16,"Concordia, MO 64020",Apartment,1000,3,2,1200
+64020,1505 S Saint Louis St Lot 7,"Concordia, MO 64020",Apartment,140,Studio,,
+64020,811 S Saint Louis St Apt 1,"Concordia, MO 64020",Apartment,550,1,1,500
+47112,2150 Heritage Way NW,"Corydon, IN 47112",Apartment,799,2,1,1050
+51501,4141 Rivers Edge Pkwy,"Council Bluffs, IA 51501",Apartment,1135,Studio,1,600
+51501,4141 Rivers Edge Pkwy,"Council Bluffs, IA 51501",Apartment,2025,2,2,1248
+51501,20 S 41st St,"Council Bluffs, IA 51501",Apartment,1730,Studio,1,459
+51501,20 S 41st St,"Council Bluffs, IA 51501",Apartment,1850,2,2,1277
+51501,3201 Renner Dr,"Council Bluffs, IA 51501",Apartment,1102,2,1,971
+51501,3201 Renner Dr,"Council Bluffs, IA 51501",Apartment,1177,3,2,1144
+51501,1315 Avenue I,"Council Bluffs, IA 51501",House,900,2,1,
+51501,319 N 34th St,"Council Bluffs, IA 51501",House,1295,2,1,884
+51501,118 S 8th St,"Council Bluffs, IA 51501",Apartment,725,2,1,
+51501,4506 Chapel Ridge Ln,"Council Bluffs, IA 51501",Apartment,975,1,1,673
+51501,4506 Chapel Ridge Ln,"Council Bluffs, IA 51501",Apartment,1050,4,2,1333
+51501,326 N 34th St Units 326 & 1,"Council Bluffs, IA 51501",Condo,1595,3,3,1400
+51501,600-604 1st Ave,"Council Bluffs, IA 51501",Apartment,875,1,1,960
+51501,805 2nd Ave,"Council Bluffs, IA 51501",Apartment,550,Studio+,1,
+51501,806 N 34th St,"Council Bluffs, IA 51501",Apartment,735,1,1,598
+51501,806 N 34th St,"Council Bluffs, IA 51501",Apartment,1000,2,1,955
+30040,2625 Richfield Pl,"Cumming, GA 30040",House,1920,3,2.5,1528
+30040,3732 Humber Ct,"Cumming, GA 30040",House,2230,3,2.5,1972
+30040,2755 Mayfair Dr,"Cumming, GA 30040",House,2260,3,2.5,1988
+30040,6190 Ivey Springs Chase,"Cumming, GA 30040",House,2890,3,2.5,2450
+30040,5540 Carrington Pl,"Cumming, GA 30040",House,2415,3,2.5,2128
+30040,3140 Englewood Dr,"Cumming, GA 30040",House,2305,3,2,2135
+30040,2685 Hammond Dr,"Cumming, GA 30040",House,2830,4,4,2954
+30040,2980 Whittier Way,"Cumming, GA 30040",House,2385,4,4,2422
+30040,1004 Tribble Gap Rd Apt 5A,"Cumming, GA 30040",House,1385,2,1,
+30040,3714 Humber Ct,"Cumming, GA 30040",House,2455,4,2.5,2370
+30040,3120 Centerglen Ln,"Cumming, GA 30040",House,2800,4,2.5,2756
+30040,3305 Hutchinson Rd Apt 4104,"Cumming, GA 30040",Apartment,1630,1,1,1075
+30040,3305 Hutchinson Rd Apt 17104,"Cumming, GA 30040",Apartment,1692,1,1,1075
+30040,1755 Fox Hill Ln,"Cumming, GA 30040",House,3250,5,4,2809
+30040,6180 Turfway Dr,"Cumming, GA 30040",House,3000,4,2.5,2238
+30040,4430 Evandale Way,"Cumming, GA 30040",House,3430,5,4,4144
+30040,1445 Dahlia Dr,"Cumming, GA 30040",House,3200,5,5,3467
+30040,3940 Oxford Park Ln,"Cumming, GA 30040",House,2900,4,3.5,2500
+30040,5755 Rialto Way,"Cumming, GA 30040",House,2450,5,3.5,2997
+30040,5755 Weddington Dr,"Cumming, GA 30040",House,2450,3,2.5,2103
+30040,5415 Falls Landing Dr,"Cumming, GA 30040",House,2285,3,3,1791
+30040,3326 Castleberry Village Dr,"Cumming, GA 30040",Townhome,2400,3,2.5,2178
+30040,1455 Parkside Village Dr,"Cumming, GA 30040",House,3000,4,3.5,2838
+30040,5920 Crestwick Way,"Cumming, GA 30040",House,2675,4,2.5,1988
+30040,3565 Rosewicke Dr,"Cumming, GA 30040",House,2385,3,2,2167
+30040,6980 Rocking Horse Ln,"Cumming, GA 30040",House,3250,5,4,3706
+30040,5217 Sherwood Way,"Cumming, GA 30040",Townhome,2145,3,2.5,1856
+30040,7225 Walnut Mill Lndg,"Cumming, GA 30040",House,2300,3,2.5,1755
+30040,6170 Shiloh Woods Dr,"Cumming, GA 30040",Townhome,2400,3,2.5,1873
+30040,6015 Falls Landing Dr,"Cumming, GA 30040",House,2550,4,2.5,2448
+30040,4045 Brookview Dr,"Cumming, GA 30040",House,3865,4,3.5,3043
+30040,5850 Sterling Ct,"Cumming, GA 30040",House,2600,4,2.5,1806
+30040,6145 Falls Landing Dr,"Cumming, GA 30040",House,2550,4,2.5,2463
+30040,5860 White Creek Run,"Cumming, GA 30040",House,2825,4,3.5,3180
+30040,5805 Rialto Way,"Cumming, GA 30040",House,2600,4,2.5,3008
+30040,6325 Whirlaway Dr,"Cumming, GA 30040",House,2475,4,2.5,2235
+30040,2920 Centerglen Ln,"Cumming, GA 30040",House,2450,4,2.5,2714
+30040,1440 Independence Trl,"Cumming, GA 30040",House,2700,4,2.5,2840
+30040,5035 Chase Ln,"Cumming, GA 30040",House,3350,4,3,2931
+30040,7270 Wyngate Dr,"Cumming, GA 30040",House,2695,4,2.5,2510
+30040,3383 Castleberry Village Cir,"Cumming, GA 30040",Townhome,2175,3,2.5,1780
+30040,125 Tribble Gap Rd,"Cumming, GA 30040",Condo,1800,2,2,1400
+30040,2815 Dahlonega Hwy,"Cumming, GA 30040",Other,1500,3,2,1456
+30040,3305 Hutchinson Rd Apt 21104,"Cumming, GA 30040",Apartment,2209,2,2,1301
+30040,3305 Hutchinson Rd Apt 21102,"Cumming, GA 30040",Apartment,2216,2,2,1301
+30040,3305 Hutchinson Rd Apt 11103,"Cumming, GA 30040",Apartment,2216,2,2,1301
+30040,5780 Palmtree Pass,"Cumming, GA 30040",House,2950,5,3,2970
+30040,7110 Dressage Way,"Cumming, GA 30040",House,3995,6,3.5,4092
+30040,4885 Hanson Farms Ln,"Cumming, GA 30040",House,3699,5,3,3780
+30040,5760 Palmtree Pass,"Cumming, GA 30040",House,3990,5,4,3413
+30040,1004 Tribble Gap Rd,"Cumming, GA 30040",Apartment,1425,2,1,
+30040,4835 Edgemoore Trce,"Cumming, GA 30040",House,3990,5,4,3317
+30040,2635 Conley Dr,"Cumming, GA 30040",House,2165,4,2,1849
+30040,3842 Holliwell Pass,"Cumming, GA 30040",House,2400,4,2.5,2360
+30040,3724 Portico Ln,"Cumming, GA 30040",Townhome,2200,4,2.5,1750
+30040,1006 Tribble Gap Rd,"Cumming, GA 30040",Apartment,1000,1,1,613
+30040,1006 Tribble Gap Rd,"Cumming, GA 30040",Apartment,1600,3,2,1346
+30040,4235 Idlewood Dr,"Cumming, GA 30040",House,3000,5,3,3274
+30040,1400 Pilgrim Mill Rd,"Cumming, GA 30040",Apartment,1475,2,2,860
+30040,3520 Wiltshire Way,"Cumming, GA 30040",House,2800,5,4.5,3100
+30040,4825 Nantucket Trce,"Cumming, GA 30040",House,3675,5,4,3142
+30040,309 Pirkle Ferry Rd Ste D200,"Cumming, GA 30040",Condo,1400,,1,1140
+30040,3120 Englewood Dr,"Cumming, GA 30040",House,2295,3,2.5,1806
+30040,3945 Elder Field Ln,"Cumming, GA 30040",House,2195,4,2,2046
+30040,3305 Hutchinson Rd Apt 18202,"Cumming, GA 30040",Apartment,1666,1,1,1075
+30040,6265 Whirlaway Dr,"Cumming, GA 30040",House,2700,4,2.5,2007
+30040,2890 Centerglen Ln,"Cumming, GA 30040",House,3380,5,3,2990
+68731,1520 Atokad Dr,"South Sioux City, NE 68776",Apartment,1199,2,2,1056
+68731,1520 Atokad Dr,"South Sioux City, NE 68776",Apartment,1249,3,2,1140
+75237,3900 Investor Dr,"Dallas, TX 75237",Condo/Townhome,1078,1,1,614
+75237,3900 Investor Dr,"Dallas, TX 75237",Condo/Townhome,1672,3,2,1086
+75237,7575 S Westmoreland Rd,"Dallas, TX 75237",Apartment,1005,1,1,582
+75237,7575 S Westmoreland Rd,"Dallas, TX 75237",Apartment,1495,3,2,1185
+75237,4311 Woodhollow Dr,"Dallas, TX 75237",Apartment,1016,1,1,550
+75237,4311 Woodhollow Dr,"Dallas, TX 75237",Apartment,1473,3,2,1365
+75237,7550 S Westmoreland Rd,"Dallas, TX 75237",Apartment,936,Studio,1,509
+75237,7550 S Westmoreland Rd,"Dallas, TX 75237",Apartment,1505,2,2,1020
+75237,2765 Meadow Gate Ln,"Dallas, TX 75237",Other,1595,3,2,1385
+75237,5959 Watership Ln,"Dallas, TX 75237",Apartment,1097,1,1,542
+75237,5959 Watership Ln,"Dallas, TX 75237",Apartment,1527,2,2,974
+75237,2875 Bronco Dr,"Dallas, TX 75237",House,2325,4,2,1587
+75237,2437 Club Manor Dr,"Dallas, TX 75237",House,2070,3,2,1632
+75237,7310 Marvin D Love Fwy,"Dallas, TX 75237",Apartment,1009,1,1,519
+75237,7310 Marvin D Love Fwy,"Dallas, TX 75237",Apartment,1405,3,2,1130
+75237,4060 Preferred Pl,"Dallas, TX 75237",Apartment,1095,1,1,661
+75237,4060 Preferred Pl,"Dallas, TX 75237",Apartment,1370,2,2,913
+75237,8501 Old Hickory Trl,"Dallas, TX 75237",Apartment,1394,2,2,960
+75237,8501 Old Hickory Trl,"Dallas, TX 75237",Apartment,1612,3,2,1120
+75237,3801 Gannon Ln,"Dallas, TX 75237",Condo/Townhome,860,Studio,1,403
+75237,3801 Gannon Ln,"Dallas, TX 75237",Condo/Townhome,1170,2,2,835
+75237,6010 S Westmoreland Rd,"Dallas, TX 75237",Apartment,1318,1,1,621
+75237,6010 S Westmoreland Rd,"Dallas, TX 75237",Apartment,1783,2,2,1164
+75237,3636 W Red Bird Ln,"Dallas, TX 75237",Condo/Townhome,1336,1,1,700
+75237,3636 W Red Bird Ln,"Dallas, TX 75237",Condo/Townhome,1534,2,2,932
+75237,7272 Marvin D Love Fwy,"Dallas, TX 75237",Apartment,850,1,1,558
+75237,7272 Marvin D Love Fwy,"Dallas, TX 75237",Apartment,1505,3,2,1116
+24586,1380 Old Quarry Rd Apt 1,"Ringgold, VA 24586",Apartment,700,2,1,
+24586,1380 Old Quarry Rd Unit 10,"Ringgold, VA 24586",Apartment,700,2,1,
+72834,1204 S Frankfort Ave,"Russellville, AR 72801",Apartment,575,2,1,
+72834,601 S Independence Ave,"Russellville, AR 72801",House,1250,3,2,1428
+72834,104 W 14th St,"Russellville, AR 72801",House,1200,3,1.5,
+72834,1109 S Oswego Ave,"Russellville, AR 72801",House,1075,3,2,
+63841,228 E Market St Unit 107,"Dexter, MO 63841",Apartment,850,1,1,400
+63841,703 Sycamore Rd,"Dexter, MO 63841",Apartment,595,1,1,800
+63841,703 Sycamore Rd,"Dexter, MO 63841",Apartment,615,2,1,800
+63841,Brooke Vlg,"Dexter, MO 63841",Apartment,725,1,1,800
+63841,Brooke Vlg,"Dexter, MO 63841",Apartment,850,2,1,800
+63841,Brooke Village Lyndel Ct,"Dexter, MO 63841",Apartment,750,2,1,1100
+63841,11925 S 2 Mile Rd,"Dexter, MO 63841",Apartment,695,2,1,896
+29640,601 S 5th St,"Easley, SC 29640",Apartment,1305,1,1,569
+29640,601 S 5th St,"Easley, SC 29640",Apartment,1960,3,2,2099
+29640,130 Perry Bend Cir,"Easley, SC 29640",Apartment,1286,1,1,864
+29640,130 Perry Bend Cir,"Easley, SC 29640",Apartment,1773,3,2,1444
+29640,113 S 7th St,"Easley, SC 29640",House,1000,2,1,1116
+29640,101 Bishop Dr,"Easley, SC 29640",House,1650,3,2,1500
+29640,98 Linwood St,"Easley, SC 29640",House,1660,3,2,1303
+29640,260 Hasting Cir,"Easley, SC 29640",House,1399,3,1.5,1066
+29640,247 E Compass Way,"Easley, SC 29640",Townhome,1600,3,2.5,
+29640,93 Preston St,"Easley, SC 29640",House,2400,3,2.5,
+29640,3657 Farrs Bridge Rd Unit B,"Easley, SC 29640",Condo,1195,2,1,900
+29640,3657 Farrs Bridge Rd Unit A,"Easley, SC 29640",Condo,1195,2,1,900
+29640,3653 Farrs Bridge Rd Unit A,"Easley, SC 29640",Condo,1195,2,1,900
+29640,3653 Farrs Bridge Rd Unit B,"Easley, SC 29640",Condo,1195,2,1,900
+29640,309 E Compass Way,"Easley, SC 29640",Townhome,1649,3,2.5,1729
+29640,319 E Compass Way,"Easley, SC 29640",Townhome,1649,3,2.5,1729
+29640,301 E Compass Way,"Easley, SC 29640",Townhome,1649,3,2.5,1729
+29640,298 E Compass Way,"Easley, SC 29640",Townhome,1649,3,2.5,1729
+29640,312 E Compass Way,"Easley, SC 29640",Townhome,1649,3,2.5,1729
+29640,308 E Compass Way,"Easley, SC 29640",Townhome,1649,3,2.5,1729
+29640,299 E Compass Way,"Easley, SC 29640",Townhome,1649,3,2.5,1729
+29640,306 E Compass Way,"Easley, SC 29640",Townhome,1649,3,2.5,1729
+29640,318 E Compass Way,"Easley, SC 29640",Townhome,1649,3,2.5,1729
+29640,303 E Compass Way,"Easley, SC 29640",Townhome,1649,3,2.5,1729
+29640,296 E Compass Way,"Easley, SC 29640",Townhome,1649,3,2.5,1729
+29640,293 E Compass Way,"Easley, SC 29640",Townhome,1649,3,2.5,1729
+29640,313 E Compass Way,"Easley, SC 29640",Townhome,1649,3,2.5,
+29640,121 Danway Ct,"Easley, SC 29640",Other,1495,3,2,1400
+29640,500 Grigsby Ave Apt 31,"Easley, SC 29640",Townhome,895,2,1,900
+29640,607 N 2nd St,"Easley, SC 29640",House,975,2,1,850
+66801,3601 W 18th Ave,"Emporia, KS 66801",Apartment,870,1,1,674
+66801,3601 W 18th Ave,"Emporia, KS 66801",Apartment,986,4,2,1569
+66801,1533 Merchant St,"Emporia, KS 66801",Apartment,400,Studio,1,390
+66801,1533 Merchant St,"Emporia, KS 66801",Apartment,500,1,1,585
+66801,909 Constitution St,"Emporia, KS 66801",Apartment,500,2,1,
+66801,1931 W 24th St,"Emporia, KS 66801",Apartment,475,Studio,1,580
+66801,1931 W 24th St,"Emporia, KS 66801",Apartment,1500,3,3,2500
+66801,736 E 12th Ave,"Emporia, KS 66801",Apartment,415,Studio,1,350
+66801,736 E 12th Ave,"Emporia, KS 66801",Apartment,675,4,1,1082
+66801,2935 W 24th Ave,"Emporia, KS 66801",Apartment,595,1,1,702
+66801,2935 W 24th Ave,"Emporia, KS 66801",Apartment,795,2,2,1050
+66801,110 W 6th Ave,"Emporia, KS 66801",Apartment,455,Studio,1,430
+66801,110 W 6th Ave,"Emporia, KS 66801",Apartment,563,1,1,650
+66801,605 Valley Dr,"Emporia, KS 66801",Apartment,500,2,2,
+66801,916 State St,"Emporia, KS 66801",Apartment,500,1,1,670
+66801,1201 Triplett Dr,"Emporia, KS 66801",Apartment,551,1,1,495
+66801,1201 Triplett Dr,"Emporia, KS 66801",Apartment,638,2,1,695
+72901,802 S 25th St,"Fort Smith, AR 72901",Apartment,675,1,1,716
+72901,2322 S I St,"Fort Smith, AR 72901",Apartment,675,1,1,689
+72901,4801 S 31st St,"Fort Smith, AR 72901",Apartment,795,2,1,700
+72901,1700 Utica St,"Fort Smith, AR 72901",House,1200,3,1,
+72901,1220 N D St,"Fort Smith, AR 72901",House,550,1,1,726
+72901,423 S 18th St Unit B,"Fort Smith, AR 72901",House,1000,2,2,900
+72901,411 S 18th St Unit B,"Fort Smith, AR 72901",House,1000,2,2,900
+72901,1608 S P St Unit B,"Fort Smith, AR 72901",House,975,2,2,875
+72901,419 S 18th St Unit A,"Fort Smith, AR 72901",House,1000,2,2,900
+72901,2705 Jenny Lind Rd,"Fort Smith, AR 72901",House,875,2,1,952
+72901,1512 S 11th St,"Fort Smith, AR 72901",House,1095,2,1,975
+72901,210 N 20th St Apt A,"Fort Smith, AR 72901",Condo,550,1,1,
+72901,2406 S O St,"Fort Smith, AR 72901",House,800,2,1,1100
+72901,5019B S 28th St,"Fort Smith, AR 72901",House,900,2,1,994
+72901,1604 S 25th St,"Fort Smith, AR 72901",House,930,2,1,1170
+72901,5104 S 24th St,"Fort Smith, AR 72901",House,1495,3,1,1173
+72901,605 S 22nd St,"Fort Smith, AR 72901",House,1295,3,1,1120
+72901,910 S 19th St Apt A,"Fort Smith, AR 72901",Condo,550,2,1,
+72901,2104 Savannah St # 1,"Fort Smith, AR 72901",Condo,850,2,1,
+72901,908 S 19th St Apt A,"Fort Smith, AR 72901",Condo,600,3,1.5,
+72901,N 18th,"Fort Smith, AR 72901",Apartment,560,,1,
+72901,2014 N E St,"Fort Smith, AR 72901",House,1095,2,1,924
+72901,1915 S U St # A,"Fort Smith, AR 72901",Condo,1050,2,2,900
+72901,2111-2122 N 13th St,"Fort Smith, AR 72901",Apartment,675,1,1,
+72901,1007-1025 S 25th St,"Fort Smith, AR 72901",Apartment,650,2,1,
+72901,1411 Rogers Ave,"Fort Smith, AR 72901",Apartment,Contact For Price,Studio - 2,1,440 - 645
+72901,3109 S 14th St,"Fort Smith, AR 72901",Apartment,495,1,1,
+72901,1904G N St Ft,"Fort Smith, AR 72901",Apartment,640,1,1,
+72901,2801 Vicksburg St,"Fort Smith, AR 72901",Apartment,595,1,1,
+72901,O St,"Fort Smith, AR 72901",Apartment,625,2,1,850
+72901,500/500 5/502/502 # 5,"Fort Smith, AR 72901",Apartment,425,1,1,638
+72901,500/500 5/502/502 # 5,"Fort Smith, AR 72901",Apartment,450,1,1,638
+72901,N 15th St,"Fort Smith, AR 72901",Apartment,500,2,1,
+72901,1601 S Fresno St,"Fort Smith, AR 72901",Apartment,535,1,1,700
+72901,18 Hiland Dr Unit 18HILANDDRIVE,"Fort Smith, AR 72901",Duplex/Triplex,1100,3,2,820
+72901,1402-1404 Atlanta St,"Fort Smith, AR 72901",Apartment,650,2,1,
+72901,1511 Boston St,"Fort Smith, AR 72901",Apartment,725,2,1,825
+72901,1617/1617 5 South 23rd,"Fort Smith, AR 72901",Apartment,475,1,1,
+72901,1615-1701 Osage St,"Fort Smith, AR 72901",Apartment,800,2,1,
+72901,1711 Jackson St,"Fort Smith, AR 72901",Townhome,875,2,2,1010
+72901,5401 Jenny Lind Rd,"Fort Smith, AR 72901",Apartment,795,2,1,737
+72901,1624 Fresno St,"Fort Smith, AR 72901",Apartment,675,1,1,635
+72901,1624 Fresno St,"Fort Smith, AR 72901",Apartment,795,2,1,935
+72901,622 N 19th St Apt 2,"Fort Smith, AR 72901",Apartment,600,1,1,350
+72901,1813 N N St,"Fort Smith, AR 72901",Apartment,850,3,2,
+72901,1502 S Greenwood Ave Unit 1,"Fort Smith, AR 72901",Apartment,750,2,1,900
+72901,2851 Xavier St,"Fort Smith, AR 72901",Apartment,800,2,2,986
+72901,2905-2907 Alabama Ave,"Fort Smith, AR 72901",Apartment,550,1,1,712
+72901,2301 S V St,"Fort Smith, AR 72901",Apartment,600,2,1,795
+72901,2212 Savannah St,"Fort Smith, AR 72901",Apartment,1095,2,1,916
+72901,502 N 25th St,"Fort Smith, AR 72901",House,1295,3,2,1237
+72901,5109 S 24th St,"Fort Smith, AR 72901",House,1095,2,1,700
+72901,2905-2907 Alabama Ave,"Fort Smith, AR 72901",Apartment,550,1,1,712
+72901,2301 S V St,"Fort Smith, AR 72901",Apartment,600,2,1,795
+72901,2212 Savannah St,"Fort Smith, AR 72901",Apartment,1095,2,1,916
+72901,502 N 25th St,"Fort Smith, AR 72901",House,1295,3,2,1237
+72901,5109 S 24th St,"Fort Smith, AR 72901",House,1095,2,1,700
+35906,98 Sutton Cir,"Rainbow City, AL 35906",Apartment,940,2 - 3,1.5,986 - 1150
+35906,3715 Rainbow Dr,"Rainbow City, AL 35906",Apartment,790,1,1,680
+35906,3715 Rainbow Dr,"Rainbow City, AL 35906",Apartment,815,3,2,1098
+35906,164 Christopher St,"Rainbow City, AL 35906",Apartment,938,2,2,1000
+35906,410 Kensington Ln,"Rainbow City, AL 35906",House,1695,3,2,1416
+35906,207 St Christopher St,"Rainbow City, AL 35906",Apartment,963,2,2,
+37072,100 Lennox Pl,"Goodlettsville, TN 37072",Apartment,1371,1,1,842
+37072,100 Lennox Pl,"Goodlettsville, TN 37072",Apartment,1775,3,2,1228
+37072,110 Harris St,"Goodlettsville, TN 37072",Apartment,1259,1,1,740
+37072,110 Harris St,"Goodlettsville, TN 37072",Apartment,1514,3,2,2000
+37072,333 Northcreek Blvd,"Goodlettsville, TN 37072",Apartment,1649,1,1 - 2,
+37072,333 Northcreek Blvd,"Goodlettsville, TN 37072",Apartment,2107,3,1 - 2,
+37072,1055 Ridgecrest Dr,"Goodlettsville, TN 37072",House,3900,Studio,,21439
+37072,154 Henry Rd,"Goodlettsville, TN 37072",House,1700,3,2,1200
+37072,118 Jesse Brown Dr,"Goodlettsville, TN 37072",House,2205,3,2,1608
+37072,2018 Valley Dr,"Goodlettsville, TN 37072",House,1860,2,2,1569
+37072,2017 Skyline Dr,"Goodlettsville, TN 37072",House,2265,3,2,1449
+37072,73 McMurtry Rd,"Goodlettsville, TN 37072",House,2000,3,2,1170
+37072,196 Ivy Hill Ln,"Goodlettsville, TN 37072",House,2150,3,2.5,1800
+37072,118 Buckingham Ct,"Goodlettsville, TN 37072",House,2410,3,2,2150
+37072,161 Cobblestone Place Dr,"Goodlettsville, TN 37072",Townhome,1599,2,2.5,1312
+37072,422 Rosehill Dr Unit A,"Goodlettsville, TN 37072",Townhome,2700,4,2,1800
+37072,500 Windsor Green Blvd,"Goodlettsville, TN 37072",Apartment,1224,1,1,650
+37072,500 Windsor Green Blvd,"Goodlettsville, TN 37072",Apartment,1544,2,2,1048
+37072,142 Cartwright Pkwy,"Goodlettsville, TN 37072",House,2215,3,2,1730
+37072,100 Robert Cartwright Dr,"Goodlettsville, TN 37072",Apartment,1050,1,1,792
+37072,100 Robert Cartwright Dr,"Goodlettsville, TN 37072",Apartment,1425,3,2,1319
+37072,452 Moss Trl,"Goodlettsville, TN 37072",Apartment,1305,1,1,948
+37072,452 Moss Trl,"Goodlettsville, TN 37072",Apartment,1550,3,2,1240
+37072,30 Dry Creek Rd,"Goodlettsville, TN 37072",Apartment,1243,2,2,1098
+37072,30 Dry Creek Rd,"Goodlettsville, TN 37072",Apartment,1432,3,2,1315
+37072,615 Ellen Dr Unit 1-4,"Goodlettsville, TN 37072",Apartment,1495,2,1,900
+37072,100 Lewis Dr,"Goodlettsville, TN 37072",Apartment,1045,1,1,550
+37072,100 Lewis Dr,"Goodlettsville, TN 37072",Apartment,1275,2,1,800
+37072,422 Rosehill Dr Unit B,"Goodlettsville, TN 37072",Apartment,2700,4,2,1800
+37072,110 Harris St,"Goodlettsville, TN 37072",House,1700,2,2,1609
+72638,208 Ember Dr Apt 2,"Green Forest, AR 72638",Apartment,650,1,1,
+76117,5709 E Belknap St,"Haltom City, TX 76117",Apartment,925,1,1,418 - 424
+76117,5151 Broadway Ave,"Haltom City, TX 76117",Other,975,1,1,
+76117,5613 Coventry Park Dr,"Haltom City, TX 76117",Apartment,1047,1,1,521
+76117,5613 Coventry Park Dr,"Haltom City, TX 76117",Apartment,1399,2,2,1000
+76117,1E 706625 Unit Bedroom,"Haltom City, TX 76117",House,431,1,1,
+76117,5151 Broadway Ave,"Haltom City, TX 76117",House,975,1,1,
+76117,1209 Kings Hwy,"Fort Worth, TX 76117",House,1400,1,1,950
+76117,5005 NE Loraine St Apt 14,"Haltom City, TX 76117",Apartment,900,Studio,1,364
+76117,5709 E Belknap St Apt 1067,"Haltom City, TX 76117",Apartment,910,Studio,1,327
+76117,5709 E Belknap St Apt 2161,"Haltom City, TX 76117",Apartment,925,Studio,1,327
+76117,5709 E Belknap St Apt 2074,"Haltom City, TX 76117",Apartment,928,Studio,1,327
+76117,3570 Paramount St,"North Richland Hills, TX 76117",House,2150,4,2,1454
+76117,3413 Haltom Rd,"Haltom City, TX 76117",House,1795,3,2,1232
+76117,3712 Eastridge Dr,"Haltom City, TX 76117",House,1850,3,2,1754
+76117,5012 Vicki St,"Haltom City, TX 76117",House,2025,4,2.5,2240
+76117,3429 Tourist Dr,"North Richland Hills, TX 76117",House,1625,3,2,1100
+76117,5805 Maryview Ter,"Haltom City, TX 76117",House,2250,4,3,2664
+76117,5240 Palmer Dr,"Haltom City, TX 76117",House,2200,4,2.5,2139
+76117,5301 Springlake Pkwy,"Haltom City, TX 76117",Condo/Townhome,1089,1,1,660
+76117,5301 Springlake Pkwy,"Haltom City, TX 76117",Condo/Townhome,1371,2,2,966
+76117,5005 NE Loraine St Apt 22,"Haltom City, TX 76117",Apartment,1200,2,1,819
+76117,5637 Highland Ave,"Haltom City, TX 76117",House,1995,3,1,1192
+76117,5101 Springlake Pkwy,"Haltom City, TX 76117",Condo/Townhome,1064,1,1,575
+76117,5101 Springlake Pkwy,"Haltom City, TX 76117",Condo/Townhome,1495,2,2,1041
+76117,5201 Springlake Pkwy,"Haltom City, TX 76117",Condo/Townhome,1064,1,1,611
+76117,5201 Springlake Pkwy,"Haltom City, TX 76117",Condo/Townhome,1381,2,2,956
+76117,5501 Adams Dr,"Haltom City, TX 76117",Condo/Townhome,1161,1,1,650
+76117,5501 Adams Dr,"Haltom City, TX 76117",Condo/Townhome,1455,3,1,1125
+76117,5224 Bonnie Wayne St,"Haltom City, TX 76117",House,1875,3,2,999
+76117,5118 Springlake Pkwy,"Haltom City, TX 76117",House,2300,3,2.5,1413
+76117,2423 Oakwood Ter,"Haltom City, TX 76117",House,1865,3,1,1046
+76117,5005 NE Loraine St Apt 12,"Haltom City, TX 76117",Apartment,1050,1,1,591
+76117,4704 Haltom Rd,"Haltom City, TX 76117",Townhome,2500,2,2,1161
+76117,5709 E Belknap St Apt 1024,"Haltom City, TX 76117",Apartment,1010,1,1,418
+76117,5709 E Belknap St Apt 1051,"Haltom City, TX 76117",Apartment,1010,1,1,418
+76117,5709 E Belknap St Apt 1127,"Haltom City, TX 76117",Apartment,1010,1,1,418
+76117,5709 E Belknap St Apt 2041,"Haltom City, TX 76117",Apartment,1215,1,1,418
+76117,5613 Ezell St Ezell St Unit 5613,"Haltom City, TX 76117",Apartment,875,1,1,336
+76117,3704 Aurora St,"Haltom City, TX 76117",House,2085,4,2,1390
+76117,3001 Jane Ln,"Haltom City, TX 76117",Apartment,1100,1,1,676
+76117,3001 Jane Ln,"Haltom City, TX 76117",Apartment,1465,3,2,1082
+76117,5713 Highland Ave,"Haltom City, TX 76117",House,1795,3,2,1402
+76117,5709 E Belknap St Apt 1092,"Haltom City, TX 76117",Apartment,968,Studio,1,327
+71801,303 W 23rd St,"Hope, AR 71801",Apartment,700,2,1,850
+77029,1709 Caspersen Dr,"Houston, TX 77029",House,1400,3,2,871
+77029,11117 Oswego St,"Houston, TX 77029",House,1600,3,2,1156
+77029,2203 Pearl St,"Houston, TX 77029",House,1795,3,2,1298
+77029,1422 Teanaway Ln,"Houston, TX 77029",House,1450,2,1,960
+77029,115 N Carolina St,"Houston, TX 77029",House,1475,3,2,
+77029,421 Clearwater St,"Houston, TX 77029",House,1800,4,3,1900
+77029,418 Armstrong St Unit B,"Houston, TX 77029",Condo,1395,3,2,872
+77029,319 Clearwater St,"Houston, TX 77029",Other,1550,3,2,1314
+77029,8747 Josie St,"Houston, TX 77029",House,1400,3,1,950
+77029,416 DE Haven St,"Houston, TX 77029",House,1225,2,2,1160
+77029,314 New Mexico St,"Houston, TX 77029",House,1500,3,1,1292
+77029,10317 Chadwick St,"Houston, TX 77029",House,1800,3,2,1350
+77029,9834 Racine St,"Houston, TX 77029",Apartment,1299,3,1,825
+77029,8606 Berndale St Rm 1,"Houston, TX 77029",Townhome,850,1,1,400
+77029,8019 Richards St,"Houston, TX 77029",Apartment,1800,Studio+,,
+77029,8019 Richards St,"Houston, TX 77029",Apartment,3400,Studio+,,
+77029,322 New Hampshire St,"Houston, TX 77029",Other,1600,3,2,972
+77029,9834 Racine St Unit B,"Houston, TX 77029",Other,1299,3,1,840
+77029,10313 Norvic St,"Jacinto City, TX 77029",House,1395,3,2,1250
+77029,407 Connecticut St,"Houston, TX 77029",Other,850,Studio,,
+77029,301 Mascot St,"Houston, TX 77029",Other,600,Studio,,
+38343,3105 Fawn Ridge Cv,"Humboldt, TN 38343",House,1995,3,2,1840
+67505,103 E 7th Ave,"South Hutchinson, KS 67505",Apartment,649,1,1,554
+67505,103 E 7th Ave,"South Hutchinson, KS 67505",Apartment,759,2,1,700
+67501,128 E Carpenter St,"Hutchinson, KS 67501",House,625,2,1,694
+67501,516 W 13th Ave,"Hutchinson, KS 67501",House,1250,2,1,982
+67501,1720 E 2nd Ave,"Hutchinson, KS 67501",House,750,2,1,720
+67501,600 W 8th Ave,"Hutchinson, KS 67501",House,875,4,1,1257
+67501,219 E Campbell St Unit 1,"Hutchinson, KS 67501",House,675,2,1,752
+67501,1612 W 4th Ave Apt C,"Hutchinson, KS 67501",House,525,1,1,350
+67501,124 E 6th Ave,"Hutchinson, KS 67501",Apartment,425,1,1,
+67501,400 E Sherman St,"Hutchinson, KS 67501",Apartment,500,1,1,
+67501,14 E 2nd Ave,"Hutchinson, KS 67501",Apartment,425,1,1,
+67501,14 E 2nd Ave,"Hutchinson, KS 67501",Apartment,450,1,1,
+67501,900 E 11th Ave,"Hutchinson, KS 67501",Apartment,475,Studio+,1,450
+67501,401 E Ave,"Hutchinson, KS 67501",Apartment,490,Studio,1,250
+67501,401 E Ave,"Hutchinson, KS 67501",Apartment,650,2,1,700
+67501,14 W 1st Ave,"Hutchinson, KS 67501",Apartment,1950,2,2,1500
+67501,14 W 1st Ave,"Hutchinson, KS 67501",Apartment,2100,2,2,1500
+67501,815 N Washington St,"Hutchinson, KS 67501",Apartment,425,1,1,400
+67501,116 E 10th Ave,"Hutchinson, KS 67501",Apartment,625,2,1,525
+67501,528 N Grandview St,"Hutchinson, KS 67501",House,700,3,1,1118
+32254,3034 W 18th Street W 18th B St Unit 3034,"Jacksonville, FL 32254",House,775,1,1,528
+32254,3533 Oleander St,"Jacksonville, FL 32254",House,1210,2,1,1219
+32254,758 Mackinaw St,"Jacksonville, FL 32254",House,1250,2,1,1239
+32254,2651 Lowell Ave,"Jacksonville, FL 32254",House,1008,2,1,1036
+32254,2932 Rhonda Rd,"Jacksonville, FL 32254",House,997,2,1,750
+32254,3013 Dignan St,"Jacksonville, FL 32254",House,1227,2,1,868
+32254,2757 Lowell Ave,"Jacksonville, FL 32254",House,1109,2,1,747
+32254,3045 W 15th St,"Jacksonville, FL 32254",House,1500,3,1.5,1526
+32254,2915 Lucoma Dr,"Jacksonville, FL 32254",House,1545,3,2,1300
+32254,2515 Melson Ave,"Jacksonville, FL 32254",House,1164,3,1.5,1034
+32254,970 McTyre Ct,"Jacksonville, FL 32254",House,1491,3,2,1271
+32254,5239 Potomac Ave,"Jacksonville, FL 32254",House,1452,3,2,1392
+32254,2905 16th St W,"Jacksonville, FL 32254",House,1508,3,2,1229
+32254,3131 Thomas St,"Jacksonville, FL 32254",House,1468,3,2,1230
+32254,3137 Nolan St,"Jacksonville, FL 32254",House,1095,3,2,1134
+32254,916 Prospect St,"Jacksonville, FL 32254",House,1470,3,2,1300
+32254,5121 Andrews St,"Jacksonville, FL 32254",House,1310,3,1,1372
+32254,1524 Detroit St,"Jacksonville, FL 32254",House,1270,3,2,984
+32254,3037 Columbus Ave,"Jacksonville, FL 32254",House,1350,3,1,1024
+32254,914 Allison St,"Jacksonville, FL 32254",House,1405,3,2,1395
+32254,2900 Thomas St,"Jacksonville, FL 32254",House,1445,3,2,1272
+32254,3042 4th Street Cir,"Jacksonville, FL 32254",House,1575,3,2,1686
+32254,5330 Kankakee Blvd,"Jacksonville, FL 32254",House,1410,3,2,1380
+32254,3357 Columbus Ave,"Jacksonville, FL 32254",House,1000,1,1,550
+32254,1073 Seminole Ave,"Jacksonville, FL 32254",House,1308,3,1,950
+32254,1623 Saint Clair St,"Jacksonville, FL 32254",House,1540,4,2,1858
+32254,2966 W 5th St,"Jacksonville, FL 32254",House,1390,4,1.5,1056
+32254,3516 Deer St,"Jacksonville, FL 32254",House,1391,4,2,1480
+32254,2962 W 15th St,"Jacksonville, FL 32254",House,1300,3,1,1200
+32254,1129 Saint Clair St,"Jacksonville, FL 32254",House,1199,3,1,1200
+32254,3034 Imperial St,"Jacksonville, FL 32254",House,1300,2,2,1079
+32254,3055 Nolan St,"Jacksonville, FL 32254",House,900,2,1,700
+32254,1094 Hood Ave,"Jacksonville, FL 32254",House,1435,3,,1224
+32254,2817 Sunnyside St,"Jacksonville, FL 32254",House,1250,2,1,768
+32254,414 Willow Branch Ave,"Jacksonville, FL 32254",House,1450,3,1,1200
+32254,3048 W 19th St,"Jacksonville, FL 32254",House,1350,3,1,1231
+32254,3246 Nolan St,"Jacksonville, FL 32254",House,1595,3,2,1164
+32254,5346 Missouri Ave # 1890,"Jacksonville, FL 32254",House,1415,3,1,1202
+32254,3146 Nolan St,"Jacksonville, FL 32254",House,1450,3,1,1146
+32254,3055 Dignan St,"Jacksonville, FL 32254",House,1665,3,2,1050
+32254,849 Superior St,"Jacksonville, FL 32254",House,1200,2,1,795
+32254,2823 6th St W,"Jacksonville, FL 32254",Apartment,801,2,1,640
+32254,849 Superior St,"Jacksonville, FL 32254",House,1200,2,1,795
+32254,3357 Columbus Ave,"Jacksonville, FL 32254",House,1000,1,1,550
+32254,3055 Dignan St Unit 1,"Jacksonville, FL 32254",House,1665,3,2,1050
+32254,3246 Nolan St,"Jacksonville, FL 32254",House,1595,3,2,1164
+32254,3359 Columbus Ave,"Jacksonville, FL 32254",Apartment,1000,1,1,550
+32254,3034 Imperial St,"Jacksonville, FL 32254",House,1300,2,2,1079
+32254,3434 Deer St,"Jacksonville, FL 32254",House,2000,3,2,1120
+61257,303 Larson Ct,"Hillsdale, IL 61257",Apartment,775,2,1,700
+61257,301 Larson Ct,"Hillsdale, IL 61257",Apartment,775,2,1,700
+66106,2312 Victoria Dr,"Kansas City, KS 66106",Apartment,1010,2 - 3,1,842 - 1000
+66106,5439 Sutton Ave,"Kansas City, KS 66106",House,1865,3,1.5,1470
+66106,5014 Vista St,"Kansas City, KS 66106",House,1150,2,1,875
+66106,2102 S 39th St,"Kansas City, KS 66106",House,1800,3,1,1200
+66106,5629 Crest Dr,"Kansas City, KS 66106",House,1375,3,2,1307
+66106,1201 S 38th St,"Kansas City, KS 66106",Condo,695,1,1,700
+66106,1302-1304 S 32nd St,"Kansas City, KS 66106",Apartment,750,1,1,
+66106,5508 Osage Ave Unit B,"Kansas City, KS 66106",Apartment,875,2,1,
+66106,1302 S 32nd St Unit 1302-08,"Kansas City, KS 66106",Apartment,900,1,1,700
+66106,1302 S 32nd St Unit 1302-10,"Kansas City, KS 66106",Apartment,1095,2,1,850
+66106,3411 Strong Ave Unit 8,"Kansas City, KS 66106",Apartment,600,1,1,400
+66106,7265 Forest Dr,"Kansas City, KS 66106",Apartment,979,1,1,640
+66106,7265 Forest Dr,"Kansas City, KS 66106",Apartment,1399,4,2,1680
+66106,3100 S 56th Ter,"Kansas City, KS 66106",House,2075,3,2,2188
+66106,4940 Powell Ave,"Kansas City, KS 66106",Townhome,1195,2,1,100
+66106,1425 S 55th St,"Kansas City, KS 66106",Apartment,800,1,1,550
+66106,1425 S 55th St,"Kansas City, KS 66106",Apartment,900,3,1,800
+68850,1305 N Erie St,"Lexington, NE 68850",Apartment,750,1,1,450
+46947,17-18-19 Cedar Island Dr,"Logansport, IN 46947",Apartment,1195,2,2,1700
+46947,3303 Maplewood Dr,"Logansport, IN 46947",Apartment,695,1,1,805
+46947,222 1/2 13th St,"Logansport, IN 46947",Apartment,895,2,1,1290
+46947,1323 Riverside Dr,"Logansport, IN 46947",House,675,1,1,
+46947,1815 E Broadway St,"Logansport, IN 46947",Apartment,799,1,1,785
+46947,1011 North St,"Logansport, IN 46947",Apartment,579,1,1,500
+46947,1011 North St,"Logansport, IN 46947",Apartment,699,1,1,500
+46947,3405 Lindsay Dr,"Logansport, IN 46947",Apartment,900,1,1,780
+46947,3405 Lindsay Dr,"Logansport, IN 46947",Apartment,1116,3,2,1070
+46947,1817 E Broadway St,"Logansport, IN 46947",Apartment,749,2,1,768
+46947,3200 Maple Ridge Ct,"Logansport, IN 46947",Apartment,Contact For Price,1 - 2,1,
+46947,524 Front St,"Logansport, IN 46947",Apartment,899,2,1,700
+46947,312 1/2 11th St,"Logansport, IN 46947",Apartment,795,2,1,1000
+52738,810 Springer Ave,"Columbus Junction, IA 52738",Apartment,625,2,1,770
+27332,1717 Margarita Ln,"Sanford, NC 27332",House,1600,3,2,1489
+27332,1085 Woodridge Trl,"Sanford, NC 27332",House,2100,3,2,1750
+27332,5191 Cardinal Cir,"Sanford, NC 27332",House,1895,3,2,1443
+27332,214 Summerlin Dr,"Sanford, NC 27332",House,3000,4,3,2411
+27332,104 Port Bay,"Sanford, NC 27332",House,1620,4,2,1476
+27332,36 Hill Side Ln,"Sanford, NC 27332",Other,1000,3,2,
+27332,4035 Timber Wolf Cir,"Sanford, NC 27332",House,2700,3,1.5,1350
+27332,1300 South Park Way # 637,"Sanford, NC 27332",Apartment,1528,2,2,1147
+27332,1300 South Park Way # 717,"Sanford, NC 27332",Apartment,1528,2,2,1147
+27332,1300 South Park Way # 647,"Sanford, NC 27332",Apartment,1528,2,2,1147
+27332,1300 South Park Way # 946,"Sanford, NC 27332",Apartment,1528,2,2,1147
+27332,1300 South Park Way # 635,"Sanford, NC 27332",Apartment,1547,2,2,1159
+27332,1300 South Park Way # 1122,"Sanford, NC 27332",Apartment,1547,2,2,1159
+27332,1300 South Park Way # 1142,"Sanford, NC 27332",Apartment,1547,2,2,1159
+27332,1300 South Park Way # 603,"Sanford, NC 27332",Apartment,1553,2,2,1147
+27332,1300 South Park Way # LP509,"Sanford, NC 27332",Apartment,1579,2,2,1147
+27332,1300 South Park Way # TL210,"Sanford, NC 27332",Apartment,1579,2,2,1147
+27332,1300 South Park Way # TL146,"Sanford, NC 27332",Apartment,1607,2,2,1159
+27332,1300 South Park Way # TL214,"Sanford, NC 27332",Apartment,1607,2,2,1159
+27332,1300 South Park Way # TL144,"Sanford, NC 27332",Apartment,1607,2,2,1159
+27332,1300 South Park Way # LP319,"Sanford, NC 27332",Apartment,1607,2,2,1159
+27332,1300 South Park Way # LP313,"Sanford, NC 27332",Apartment,1622,2,2,1159
+27332,922 Brenda St,"Sanford, NC 27332",House,2200,4,2.5,
+27332,60 Kittery Pt,"Sanford, NC 27332",House,2500,4,2,2700
+27332,108 Canyon Ct,"Sanford, NC 27332",House,1950,4,3,1887
+27332,1300 South Park Way # 1140,"Sanford, NC 27332",Apartment,1757,3,2,1373
+27332,1300 South Park Way # 426,"Sanford, NC 27332",Apartment,1274,1,1,810
+27332,480 Northveiw Dr,"Sanford, NC 27332",House,1750,3,2,1536
+27332,75 Timberwood Ln,"Sanford, NC 27332",House,1895,4,2.5,1960
+27332,65 Lone Pine Trl,"Sanford, NC 27332",House,2200,4,2.5,2452
+27332,1300 South Park Way # 739,"Sanford, NC 27332",Apartment,1528,2,2,1147
+27332,1300 South Park Way # 1011,"Sanford, NC 27332",Apartment,1528,2,2,1147
+27332,1300 South Park Way # 412,"Sanford, NC 27332",Apartment,1528,2,2,1147
+27332,1300 South Park Way # 936,"Sanford, NC 27332",Apartment,1547,2,2,1159
+27332,1300 South Park Way # 615,"Sanford, NC 27332",Apartment,1547,2,2,1159
+27332,1300 South Park Way # 229,"Sanford, NC 27332",Apartment,1553,2,2,1147
+27332,1300 South Park Way # 308,"Sanford, NC 27332",Apartment,1572,2,2,1159
+27332,1300 South Park Way # LP441,"Sanford, NC 27332",Apartment,1579,2,2,1147
+27332,1300 South Park Way # LP541,"Sanford, NC 27332",Apartment,1579,2,2,1147
+27332,1300 South Park Way # TL114,"Sanford, NC 27332",Apartment,1607,2,2,1159
+27332,1300 South Park Way # TL108,"Sanford, NC 27332",Apartment,1604,2,2,1147
+27332,1300 South Park Way # 207,"Sanford, NC 27332",Apartment,1274,1,1,810
+65708,1213 Woodland Rdg,"Monett, MO 65708",House,1299,3,2,1316
+65708,221 Fairway Ave,"Monett, MO 65708",Apartment,400,1 - 2,1,
+28112,3141 Highway 74 # 74-2421,"Monroe, NC 28112",House,1495,Studio,,
+28112,3141 E Hwy,"Monroe, NC 28112",House,1495,Studio+,1,
+28112,4614 Bent Green Ln,"Monroe, NC 28112",House,1850,3,2,
+28112,2000 Briarberry Ln,"Monroe, NC 28112",House,1900,3,2,1308
+28112,735 Harvest Way,"Monroe, NC 28112",House,1925,3,2,1318
+28112,1009 Warwick Hills Way,"Monroe, NC 28112",House,2295,3,2,1619
+28112,2308 Kingstree Dr,"Monroe, NC 28112",House,2420,4,2.5,2752
+28112,920 Southridge Dr,"Monroe, NC 28112",House,1995,3,2.5,2198
+28112,735 Harvest Way Unit 1,"Monroe, NC 28112",House,1925,3,2,1318
+28112,1202 Stone Marker Dr,"Monroe, NC 28112",House,2395,4,2.5,2468
+28112,1200 McCray St,"Monroe, NC 28112",House,1795,3,2,1444
+28112,2017 Briarberry Ln,"Monroe, NC 28112",House,1685,3,2,
+28112,1311 Saint Andrews Dr,"Monroe, NC 28112",House,1795,3,2,1946
+28112,900 E Sunset Dr,"Monroe, NC 28112",Apartment,843,Studio,1,480
+28112,900 E Sunset Dr,"Monroe, NC 28112",Apartment,1313,3,1.5,1234
+28112,1609 W Franklin St,"Monroe, NC 28112",Apartment,1100,2,1,872
+28112,1302 Virginia Ave,"Monroe, NC 28112",House,1905,3,2,2207
+28112,1230 Stone Marker Dr,"Monroe, NC 28112",House,2450,4,2.5,2430
+28112,903 Walters St,"Monroe, NC 28112",House,599,150,60.5+,500
+72114,5 Esplanade Cir,"North Little Rock, AR 72114",Apartment,1279,1,1,734
+72114,5 Esplanade Cir,"North Little Rock, AR 72114",Apartment,1873,2,2,1528
+72114,75 Riverfront Dr,"North Little Rock, AR 72114",Apartment,1208,1,1,695
+72114,75 Riverfront Dr,"North Little Rock, AR 72114",Apartment,1626,2,2,1484
+72114,630 W Riverfront Dr,"North Little Rock, AR 72114",Apartment,1691,1,1,638
+72114,630 W Riverfront Dr,"North Little Rock, AR 72114",Apartment,2131,2,2,1329
+72114,1902A N Poplar,"North Little Rock, AR 72114",House,650,1,1,
+72114,1315 Maple St,"North Little Rock, AR 72114",House,950,4,2,1766
+72114,220 Curtis Sykes Dr,"North Little Rock, AR 72114",House,650,2,1,750
+72114,209 E 21st St,"North Little Rock, AR 72114",House,750,2,1,924
+72114,1303 W 22nd St,"North Little Rock, AR 72114",House,750,3,1.5,1200
+72114,2003 W 16th St,"North Little Rock, AR 72114",House,625,2,1,812
+72114,2716 John Ashley Dr,"North Little Rock, AR 72114",House,995,3,1.5,1368
+72114,1306 W 21st St,"North Little Rock, AR 72114",House,1000,4,2,1179
+72114,1615 Gum St,"Little Rock, AR 72114",Condo,725,1,1,677
+72114,2701 Lincoln Ave # A,"North Little Rock, AR 72114",Condo,750,1,1,512
+72114,1715 W 18th St,"North Little Rock, AR 72114",House,650,3,1,936
+72114,724 W 23rd St,"North Little Rock, AR 72114",House,1395,3,2,1250
+72114,904 W 23rd St,"North Little Rock, AR 72114",House,1395,3,2,1250
+72114,225 E 21st St,"North Little Rock, AR 72114",House,850,2,1,972
+72114,1305 Division St,"North Little Rock, AR 72114",House,800,2,1,624
+72114,1303 Division St,"North Little Rock, AR 72114",House,800,2,1,744
+72114,1518 Orange St,"North Little Rock, AR 72114",House,975,2,1,864
+72114,1502 Sycamore St Apt A,"North Little Rock, AR 72114",Other,650,1,1,640
+72114,204 S Spruce St,"North Little Rock, AR 72114",House,995,3,1.5,1350
+72114,2900 E 2nd St,"North Little Rock, AR 72114",Apartment,495,Studio,1,480
+72114,2900 E 2nd St,"North Little Rock, AR 72114",Apartment,695,1,1,750
+72114,1300 N Olive St Apt B,"Little Rock, AR 72114",Condo,785,2,1,817
+72114,1618 N Locust St,"North Little Rock, AR 72114",House,1100,3,1.5,1510
+72114,912 W 23rd St,"Little Rock, AR 72114",Condo,725,2,1,700
+72114,914 W 23rd St,"Little Rock, AR 72114",Condo,725,2,1,700
+72114,1615 Maple St,"North Little Rock, AR 72114",House,1050,3,1,1130
+72114,2023 Franklin St,"North Little Rock, AR 72114",House,950,3,1,1140
+72114,1708 Nona St,"North Little Rock, AR 72114",Apartment,725,2,2,1000
+72114,507 W 16th St,"North Little Rock, AR 72114",Other,725,2,1,852
+72114,505 W 16th St,"North Little Rock, AR 72114",Other,725,2,1,852
+72114,900 W 16th St Unit Newrenter,"North Little Rock, AR 72114",Apartment,1,1,1,
+72114,630 Riverfront Park Dr Unit 123,"North Little Rock, AR 72114",Apartment,100,1,1,
+72114,900 W 16th St Apt 2,"North Little Rock, AR 72114",Apartment,767,1,1,
+72114,220 College Park Cir,"North Little Rock, AR 72114",Apartment,595,1,1,572
+72114,900 W 16th St Apt 1,"North Little Rock, AR 72114",Apartment,795,1,1,900
+72114,605 W 22nd St,"North Little Rock, AR 72114",Apartment,595,2,1,686
+72114,1415 W 25th St,"North Little Rock, AR 72114",Other,900,3,1,788
+72114,1507 Nona St,"North Little Rock, AR 72114",Apartment,595,1 - 2,1,600 - 720
+72114,802 W 21st St,"North Little Rock, AR 72114",Apartment,750,3,1,1239
+72114,630 W Riverfront Dr Unit 201B,"North Little Rock, AR 72114",Apartment,1250,2,2,1150
+72114,1708 Nona St,"North Little Rock, AR 72114",Apartment,725,2,2,1000
+72114,505 W 16th St,"North Little Rock, AR 72114",Other,725,2,1,852
+72114,900 W 16th St Unit Newrenter,"North Little Rock, AR 72114",Apartment,1,1,1,
+72114,1305 Division St,"North Little Rock, AR 72114",House,800,2,1,624
+72114,2016 Moss St,"North Little Rock, AR 72114",Apartment,850,2,1,1112
+72114,2750 W Pershing Blvd Apt 101,"North Little Rock, AR 72114",Apartment,950,2,2,1100
+72114,900 W 16th St Apt 2,"North Little Rock, AR 72114",Apartment,767,1,1,
+72114,1303 Division St,"North Little Rock, AR 72114",House,800,2,1,744
+72114,1504 Allen St Apt 6,"North Little Rock, AR 72114",Apartment,600,1,1,600
+72114,507 W 16th St,"North Little Rock, AR 72114",Other,725,2,1,852
+72114,1618 N Locust St,"North Little Rock, AR 72114",House,1100,3,1.5,1510
+72114,630 Riverfront Park Dr Unit 123,"North Little Rock, AR 72114",Apartment,100,1,1,
+72114,900 W 16th St Apt 1,"North Little Rock, AR 72114",Apartment,795,1,1,900
+72114,1400 W 21st St,"North Little Rock, AR 72114",Apartment,795,2,1,700
+72114,1540 W 10th St,"North Little Rock, AR 72114",Apartment,1160,2,2,1040
+72114,1540 W 10th St,"North Little Rock, AR 72114",Apartment,1511,3,2,1186
+72114,2016 Moss St,"North Little Rock, AR 72114",Apartment,850,2,1,1112
+72114,615 W 15th St,"North Little Rock, AR 72114",Apartment,895,2,1,804
+72114,1504 Allen St Apt 6,"North Little Rock, AR 72114",Apartment,600,1,1,600
+72114,1322 Maple St Unit A,"North Little Rock, AR 72114",Apartment,625,1,1,800
+72114,1322 Maple St Unit A,"North Little Rock, AR 72114",Apartment,795,2,1,892
+72114,1905 Parker St,"North Little Rock, AR 72114",Apartment,750,3,1,770
+72114,1315 W 12th St,"North Little Rock, AR 72114",Apartment,895,3,1,1022
+72114,810 W 25th St,"North Little Rock, AR 72114",Apartment,650,2,1,650
+72114,1418 Division St,"North Little Rock, AR 72114",House,1195,4,2,1130
+72114,1235 W 10th St,"North Little Rock, AR 72114",Apartment,1195,3,2,1433
+72114,125 E 22nd St,"North Little Rock, AR 72114",House,950,3,1,1372
+17557,466 Springville Rd Apt 5,"New Holland, PA 17557",House,995,2,1,
+17557,226 Edgewood Dr,"New Holland, PA 17557",House,1850,3,2,2080
+17557,23 Brimmer Ave Apt 4,"New Holland, PA 17557",Apartment,850,Studio,1,
+17557,361-B E Main St,"New Holland, PA 17557",Apartment,1050,1,1,500
+17557,478 N Railroad Ave,"New Holland, PA 17557",Apartment,1100,3,2,1518
+17557,150 Ashlea Gdns,"New Holland, PA 17557",Apartment,1060,1,1,750
+17557,150 Ashlea Gdns,"New Holland, PA 17557",Apartment,1355,3,2,1188
+17557,18-32 S Whisper Ln,"New Holland, PA 17557",Apartment,1450,3,1,1200
+17557,106 W Main St Apt 14,"New Holland, PA 17557",Apartment,925,2,1,500
+54961,1508 Cedar St,"New London, WI 54961",Apartment,799,1,1,650
+54961,505 Oakridge Ln,"New London, WI 54961",Apartment,949,2,1,850
+54961,1205 Shiocton St,"New London, WI 54961",House,1150,3,1,1152
+54961,406 W Spring St,"New London, WI 54961",House,775,2,1,
+54961,1920 Division St Apt 6,"New London, WI 54961",Condo,695,2,1,
+54961,702 Algoma St,"New London, WI 54961",Apartment,645,1,1,
+54961,1914 Division St Apt 18,"New London, WI 54961",Condo,595,1,1,
+64854,10 Croston Ln,"Bella Vista, AR 72715",House,1640,3,2,1400
+64854,6 Boswell Ln,"Bella Vista, AR 72715",House,2400,3,2.5,2150
+64854,9 Worth Pl,"Bella Vista, AR 72715",House,2000,3,2,1970
+76180,6309 Iron Horse Blvd,"North Richland Hills, TX 76180",Apartment,1350,Studio,1,592
+76180,6309 Iron Horse Blvd,"North Richland Hills, TX 76180",Apartment,2105,2,2,1232
+76180,9012 Courtenay St,"North Richland Hills, TX 76180",Apartment,1499,Studio,1,638
+76180,9012 Courtenay St,"North Richland Hills, TX 76180",Apartment,2429,3,2,1326
+76180,6490 Iron Horse Blvd,"North Richland Hills, TX 76180",Apartment,1399,Studio,1,605
+76180,6490 Iron Horse Blvd,"North Richland Hills, TX 76180",Apartment,2595,3,2,1298
+76180,7608 Deaver Dr,"North Richland Hills, TX 76180",House,2345,3,2.5,2576
+76180,7605 Deaver Dr,"North Richland Hills, TX 76180",House,2100,3,2,1515
+76180,4401 Glenview Ct,"North Richland Hills, TX 76180",Apartment,1105,1,1,564
+76180,4401 Glenview Ct,"North Richland Hills, TX 76180",Apartment,1446,3,2,1467
+76180,8601 Ice House Dr,"North Richland Hills, TX 76180",Apartment,1244,1,1,683
+76180,8601 Ice House Dr,"North Richland Hills, TX 76180",Apartment,2634,4,3,2417
+76180,8359 Harwood Rd,"North Richland Hills, TX 76180",Apartment,1145,1,1,665
+76180,8359 Harwood Rd,"North Richland Hills, TX 76180",Apartment,2045,3,2,1304
+76180,6250 Rosewood Dr,"North Richland Hills, TX 76180",Apartment,1385,1,1,722
+76180,6250 Rosewood Dr,"North Richland Hills, TX 76180",Apartment,2685,4,3,1954
+76180,8500 Harwood Rd N,"North Richland Hills, TX 76180",Apartment,1060,1,1,700
+76180,8500 Harwood Rd N,"North Richland Hills, TX 76180",Apartment,1415,3,2,1135
+76180,6901 NE Loop 820,"North Richland Hills, TX 76180",Apartment,1250,1,1,518
+76180,6901 NE Loop 820,"North Richland Hills, TX 76180",Apartment,1695,2,2,1025
+76180,6100 Ashbury St,"North Richland Hills, TX 76180",Apartment,1415,1,1,726
+76180,6100 Ashbury St,"North Richland Hills, TX 76180",Apartment,2455,3,2,1470
+76180,6021 Parker Blvd,"North Richland Hills, TX 76180",Apartment,1531,1,1,702
+76180,6021 Parker Blvd,"North Richland Hills, TX 76180",Apartment,2395,3,2,1300
+76180,8341 Emerald Hills Way,"North Richland Hills, TX 76180",Apartment,1157,1,1,726
+76180,8341 Emerald Hills Way,"North Richland Hills, TX 76180",Apartment,1632,2,2,1030
+76180,6424 Iron Horse Blvd,"North Richland Hills, TX 76180",Apartment,1136,1,1,564
+76180,6424 Iron Horse Blvd,"North Richland Hills, TX 76180",Apartment,1428,2,2,884
+76180,6715 Buenos Aires Dr,"North Richland Hills, TX 76180",Apartment,1189,1,1,544
+76180,6715 Buenos Aires Dr,"North Richland Hills, TX 76180",Apartment,1485,2,2,950
+76180,4201 City Point Dr W,"North Richland Hills, TX 76180",Apartment,1465,1,1,667
+76180,4201 City Point Dr W,"North Richland Hills, TX 76180",Apartment,1963,2,2,1097
+76180,8515 26 Blvd,"North Richland Hills, TX 76180",Apartment,1660,2,2,1013
+76180,8515 26 Blvd,"North Richland Hills, TX 76180",Apartment,2415,4,2,1407
+76180,8515 Boulevard 26,"North Richland Hills, TX 76180",Apartment,1620,2,2,1013
+76180,8515 Boulevard 26,"North Richland Hills, TX 76180",Apartment,2495,4,2,1407
+76180,6100 Browning Dr,"North Richland Hills, TX 76180",Apartment,1109,1,1,630
+76180,6100 Browning Dr,"North Richland Hills, TX 76180",Apartment,1620,3,2,1295
+76180,5304 Roberta Dr,"North Richland Hills, TX 76180",House,2200,3,2,1645
+76180,5313 Scott Dr,"North Richland Hills, TX 76180",House,1995,3,2,1359
+76180,7913 Limerick Ln,"North Richland Hills, TX 76180",House,2310,4,2,2217
+76180,4821 Ash St,"North Richland Hills, TX 76180",House,2950,4,3,2591
+76180,6716 Karen Dr,"North Richland Hills, TX 76180",House,2399,3,3,1917
+76180,5700 Acapulco Dr,"North Richland Hills, TX 76180",House,3140,3,2,1672
+76180,7800 Cardinal Ct Unit 7800,"North Richland Hills, TX 76180",Other,1950,3,2,1346
+76180,5613 Galway Ln,"North Richland Hills, TX 76180",House,2050,3,2,1632
+76180,6654 Jannie St,"North Richland Hills, TX 76180",House,1750,3,1,1324
+76180,6220 Circleview Dr,"Haltom City, TX 76180",House,2100,3,2,2058
+76180,6005 Bosque River Ct,"North Richland Hills, TX 76180",House,2600,3,2,2082
+76180,6641 Tabor St,"North Richland Hills, TX 76180",House,1895,3,2,1396
+76180,7320 Parkside Place Dr,"North Richland Hills, TX 76180",House,2900,3,2,1897
+76180,6753 Briley Dr,"North Richland Hills, TX 76180",House,1950,3,2,1463
+76180,8365 Emerald Cir,"North Richland Hills, TX 76180",House,3500,3,2.5,3061
+76180,1598 Weyland Dr,"North Richland Hills, TX 76180",Condo/Townhome,1122,1,1,570
+76180,1598 Weyland Dr,"North Richland Hills, TX 76180",Condo/Townhome,1519,2,1,1065
+76180,6440 Northern Dancer Dr,"North Richland Hills, TX 76180",Townhome,2950,3,2.5,1976
+76180,4920 Redondo St,"North Richland Hills, TX 76180",House,2099,3,2,1872
+76180,6321 Richland Plaza Dr Apt B,"North Richland Hills, TX 76180",Other,1150,2,1,960
+76180,7313 Duncan Ct,"North Richland Hills, TX 76180",House,2695,3,2,2200
+76180,8500 Harwood Rd,"North Richland Hills, TX 76180",Condo/Townhome,1132,1,1,700
+76180,8500 Harwood Rd,"North Richland Hills, TX 76180",Condo/Townhome,1847,3,2,1135
+76180,4560 Ward St,"North Richland Hills, TX 76180",House,2950,4,3.5,2512
+76180,1601 Weyland Dr # 2-1003,"North Richland Hills, TX 76180",Apartment,1590,2,2,1261
+76180,1601 Weyland Dr # 1-2105,"North Richland Hills, TX 76180",Apartment,1500,2,2,1146
+76180,1601 Weyland Dr # 1-1100,"North Richland Hills, TX 76180",Apartment,1568,2,2,1146
+76180,7731 N College Cir # 7762C,"North Richland Hills, TX 76180",Apartment,1292,2,2,1067
+76180,1601 Weyland Dr # 1-2101,"North Richland Hills, TX 76180",Apartment,1625,2,2,1146
+76180,7731 N College Cir # 7752D,"North Richland Hills, TX 76180",Apartment,1350,2,2,1067
+76180,1601 Weyland Dr # 1-2091,"North Richland Hills, TX 76180",Apartment,1650,2,2,1146
+76180,1601 Weyland Dr # 1-2097,"North Richland Hills, TX 76180",Apartment,1650,2,2,1146
+76180,7731 N College Cir # 7721B,"North Richland Hills, TX 76180",Apartment,1370,2,2,1067
+76180,7731 N College Cir # 7716D,"North Richland Hills, TX 76180",Apartment,1460,2,2,1067
+76180,7731 N College Cir # 7732B,"North Richland Hills, TX 76180",Apartment,1462,2,2,1067
+76180,7731 N College Cir # 7703A,"North Richland Hills, TX 76180",Apartment,1472,2,2,1067
+76180,7731 N College Cir # 7756B,"North Richland Hills, TX 76180",Apartment,1480,2,2,1067
+76180,7731 N College Cir # 7762D,"North Richland Hills, TX 76180",Apartment,1500,2,2,1067
+76180,7731 N College Cir # 7754B,"North Richland Hills, TX 76180",Apartment,1592,2,2,1067
+76180,6424 Iron Horse Blvd # 02M,"North Richland Hills, TX 76180",Apartment,1180,1,1,700
+76180,6424 Iron Horse Blvd # 02J,"North Richland Hills, TX 76180",Apartment,1190,1,1,700
+76180,6424 Iron Horse Blvd # 18H,"North Richland Hills, TX 76180",Apartment,1190,1,1,700
+76180,6424 Iron Horse Blvd # 01N,"North Richland Hills, TX 76180",Apartment,1190,1,1,700
+76180,6424 Iron Horse Blvd # 02E,"North Richland Hills, TX 76180",Apartment,1205,1,1,700
+76180,6424 Iron Horse Blvd # 05L,"North Richland Hills, TX 76180",Apartment,1235,1,1,700
+76180,6424 Iron Horse Blvd # 07G,"North Richland Hills, TX 76180",Apartment,1176,1,1,564
+76180,6715 Buenos Aires Dr # 1068,"North Richland Hills, TX 76180",Apartment,1281,1,1,660
+76180,6715 Buenos Aires Dr # 1082,"North Richland Hills, TX 76180",Apartment,1291,1,1,660
+76180,6715 Buenos Aires Dr # 2004,"North Richland Hills, TX 76180",Apartment,1332,1,1,660
+76180,6715 Buenos Aires Dr # 2092,"North Richland Hills, TX 76180",Apartment,1421,2,1,950
+76180,6021 Parker Blvd,"North Richland Hills, TX 76180",Condo/Townhome,1343,1,1,702
+76180,6021 Parker Blvd,"North Richland Hills, TX 76180",Condo/Townhome,2541,3,2,1300
+76180,7320 Parkside Pl,"North Richland Hills, TX 76180",House,2900,3,2.5,1897
+76180,6100 Ashbury St Apt 2211,"North Richland Hills, TX 76180",Apartment,1555,1,1,811
+76180,6100 Ashbury St Apt 3204,"North Richland Hills, TX 76180",Apartment,1560,1,1,784
+76180,6100 Ashbury St Apt 2102,"North Richland Hills, TX 76180",Apartment,1515,1,1,726
+76180,6100 Ashbury St Apt 2303,"North Richland Hills, TX 76180",Apartment,1535,1,1,726
+76180,6100 Ashbury St # 5303,"North Richland Hills, TX 76180",Apartment,1580,1,1,726
+76180,6100 Ashbury St # 7103,"North Richland Hills, TX 76180",Apartment,1580,1,1,726
+76180,6100 Ashbury St # 7205,"North Richland Hills, TX 76180",Apartment,1580,1,1,726
+76180,6100 Ashbury St # 7213,"North Richland Hills, TX 76180",Apartment,1580,1,1,726
+76180,1601 Weyland Dr # 1-1086,"North Richland Hills, TX 76180",Apartment,1232,1,1,752
+76180,1601 Weyland Dr # 2-2205,"North Richland Hills, TX 76180",Apartment,1172,1,1,698
+76180,1601 Weyland Dr # 1-2044,"North Richland Hills, TX 76180",Apartment,1164,1,1,680
+76180,1601 Weyland Dr # 1-2045,"North Richland Hills, TX 76180",Apartment,1164,1,1,680
+76180,1601 Weyland Dr # 1-2043,"North Richland Hills, TX 76180",Apartment,1164,1,1,680
+76180,1601 Weyland Dr # 1-2019,"North Richland Hills, TX 76180",Apartment,1024,1,1,529
+76180,1601 Weyland Dr # 1-2015,"North Richland Hills, TX 76180",Apartment,1024,1,1,529
+76180,7731 N College Cir # 7719H,"North Richland Hills, TX 76180",Apartment,1104,1,1,727
+76180,7731 N College Cir # 7766A,"North Richland Hills, TX 76180",Apartment,1124,1,1,727
+76180,1601 Weyland Dr # 1-1109,"North Richland Hills, TX 76180",Apartment,1307,2,1,933
+76180,1601 Weyland Dr # 1-1134,"North Richland Hills, TX 76180",Apartment,1317,2,1,933
+76180,6841 Sierra Dr,"North Richland Hills, TX 76180",Other,1595,2,2,1062
+76180,7713 Noreast Dr,"North Richland Hills, TX 76180",House,2145,3,2,1280
+76180,5817 Southern Hills Dr,"North Richland Hills, TX 76180",Apartment,900,1,1,700
+76180,7731 N College Cir,"North Richland Hills, TX 76180",Apartment,1074,Studio,1,727
+76180,7731 N College Cir,"North Richland Hills, TX 76180",Apartment,1649,3,2,1340
+76180,5009 Maryanna Way,"North Richland Hills, TX 76180",Townhome,1550,2,2,1056
+76180,7731 N College Cir # 7704D,"North Richland Hills, TX 76180",Apartment,1804,3,2,1340
+76180,7731 N College Cir # 7700D,"North Richland Hills, TX 76180",Apartment,1804,3,2,1340
+76180,6424 Iron Horse Blvd # 16H,"North Richland Hills, TX 76180",Apartment,1498,2,2,884
+76180,6424 Iron Horse Blvd # 22A,"North Richland Hills, TX 76180",Apartment,1523,2,2,884
+76180,6715 Buenos Aires Dr # 1070,"North Richland Hills, TX 76180",Apartment,1547,2,2,950
+76180,6100 Ashbury St # 4306,"North Richland Hills, TX 76180",Apartment,1980,2,2,1082
+76180,6100 Ashbury St # 9201,"North Richland Hills, TX 76180",Apartment,2120,2,2,1131
+76180,6100 Ashbury St # 9304,"North Richland Hills, TX 76180",Apartment,2065,2,2,1082
+76180,6100 Ashbury St # 9217,"North Richland Hills, TX 76180",Apartment,2065,2,2,1082
+76180,6100 Ashbury St # 9207,"North Richland Hills, TX 76180",Apartment,2125,2,2,1131
+76180,6100 Ashbury St # 9315,"North Richland Hills, TX 76180",Apartment,2095,2,2,1082
+76180,6100 Ashbury St # 9101,"North Richland Hills, TX 76180",Apartment,2155,2,2,1131
+76180,6221 Parker Blvd,"North Richland Hills, TX 76180",Townhome,2995,3,2.5,2031
+76180,4021 Garden Park Dr,"North Richland Hills, TX 76180",Townhome,1995,3,2,1834
+76180,6715 Buenos Aires Dr # 2119,"North Richland Hills, TX 76180",Apartment,1330,2,1,855
+76180,6715 Buenos Aires Dr # 1110,"North Richland Hills, TX 76180",Apartment,1356,2,1,855
+76180,6715 Buenos Aires Dr # 2116,"North Richland Hills, TX 76180",Apartment,1376,2,1,855
+76180,6715 Buenos Aires Dr # 1016,"North Richland Hills, TX 76180",Apartment,1390,2,1,855
+76180,6715 Buenos Aires Dr # 1012,"North Richland Hills, TX 76180",Apartment,1401,2,1,855
+76180,6715 Buenos Aires Dr # 1008,"North Richland Hills, TX 76180",Apartment,1501,2,1,855
+76180,7505 Deaver Dr,"North Richland Hills, TX 76180",House,1975,3,2,1256
+76180,1601 Weyland Dr # 1-1112,"North Richland Hills, TX 76180",Apartment,1474,2,1,933
+76180,1601 Weyland Dr # 3-0124,"North Richland Hills, TX 76180",Apartment,1529,2,1,933
+76180,1601 Weyland Dr,"North Richland Hills, TX 76180",Apartment,936,1,1,529
+76180,1601 Weyland Dr,"North Richland Hills, TX 76180",Apartment,1579,2,2,1261
+76180,5521 Davis Blvd,"North Richland Hills, TX 76180",Apartment,1021,1,1,719
+76180,5521 Davis Blvd,"North Richland Hills, TX 76180",Apartment,1834,3,1.5,1132
+76180,5028 Cloyce Ct,"North Richland Hills, TX 76180",Townhome,2095,3,2.5,1566
+76180,6100 Ashbury St # 9105,"North Richland Hills, TX 76180",Apartment,2635,3,2,1470
+76180,6100 Ashbury St # 9318,"North Richland Hills, TX 76180",Apartment,2615,3,2,1389
+76180,6100 Ashbury St Apt 2301,"North Richland Hills, TX 76180",Apartment,2645,3,2,1389
+76180,6100 Ashbury St Apt 2201,"North Richland Hills, TX 76180",Apartment,2765,3,2,1389
+76180,7731 N College Cir # 7700B,"North Richland Hills, TX 76180",Apartment,2049,3,2,1340
+76180,4205 Rufe Snow Dr,"North Richland Hills, TX 76180",Apartment,1184,1,1,626
+76180,4205 Rufe Snow Dr,"North Richland Hills, TX 76180",Apartment,1894,3,2,1169
+76180,6433 Iron Horse Blvd,"North Richland Hills, TX 76180",Townhome,2500,3,2.5,1665
+76180,4105 Westminster Way,"North Richland Hills, TX 76180",House,2845,5,3,3094
+76180,6925 Prairie Dawn Ln,"North Richland Hills, TX 76180",House,2950,4,2.5,2910
+76180,8116 Irish Dr,"North Richland Hills, TX 76180",House,1850,3,2,1483
+76180,1601 Weyland Dr # 2-0204,"North Richland Hills, TX 76180",Apartment,1515,2,2,1261
+76180,1601 Weyland Dr # 2-0504,"North Richland Hills, TX 76180",Apartment,1605,2,2,1261
+76180,1601 Weyland Dr # 2-0505,"North Richland Hills, TX 76180",Apartment,1648,2,2,1261
+76180,1601 Weyland Dr # 1-1009,"North Richland Hills, TX 76180",Apartment,1518,2,2,1146
+76180,1601 Weyland Dr # 1-2104,"North Richland Hills, TX 76180",Apartment,1625,2,2,1146
+76180,1601 Weyland Dr # 2-1804,"North Richland Hills, TX 76180",Apartment,1772,2,2,1261
+76180,1601 Weyland Dr # 1-1098,"North Richland Hills, TX 76180",Apartment,1643,2,2,1146
+76180,1601 Weyland Dr # 1-1010,"North Richland Hills, TX 76180",Apartment,1643,2,2,1146
+76180,1601 Weyland Dr # 1-1107,"North Richland Hills, TX 76180",Apartment,1643,2,2,1146
+76180,1601 Weyland Dr # 1-1095,"North Richland Hills, TX 76180",Apartment,1643,2,2,1146
+76180,1601 Weyland Dr # 1-1008,"North Richland Hills, TX 76180",Apartment,1643,2,2,1146
+76180,1601 Weyland Dr # 2-1805,"North Richland Hills, TX 76180",Apartment,1790,2,2,1261
+76180,1601 Weyland Dr # 2-2303,"North Richland Hills, TX 76180",Apartment,1790,2,2,1261
+76180,7731 N College Cir # 7758D,"North Richland Hills, TX 76180",Apartment,1442,2,2,1067
+76180,6424 Iron Horse Blvd # 21G,"North Richland Hills, TX 76180",Apartment,1205,1,1,700
+76180,6424 Iron Horse Blvd # 06O,"North Richland Hills, TX 76180",Apartment,1225,1,1,700
+76180,6424 Iron Horse Blvd # 03O,"North Richland Hills, TX 76180",Apartment,1310,1,1,700
+76180,6424 Iron Horse Blvd # 08B,"North Richland Hills, TX 76180",Apartment,1191,1,1,564
+76180,6100 Ashbury St Apt 3214,"North Richland Hills, TX 76180",Apartment,1535,1,1,726
+76180,6100 Ashbury St # 5103,"North Richland Hills, TX 76180",Apartment,1580,1,1,737
+76180,6100 Ashbury St # 5304,"North Richland Hills, TX 76180",Apartment,1625,1,1,737
+76180,6100 Ashbury St # 7312,"North Richland Hills, TX 76180",Apartment,1640,1,1,737
+76180,6100 Ashbury St # 5108,"North Richland Hills, TX 76180",Apartment,1680,1,1,726
+76180,1601 Weyland Dr # 2-2208,"North Richland Hills, TX 76180",Apartment,1325,1,1,874
+76180,1601 Weyland Dr # 3-0235,"North Richland Hills, TX 76180",Apartment,1214,1,1,752
+76180,1601 Weyland Dr # 3-0136,"North Richland Hills, TX 76180",Apartment,1232,1,1,752
+76180,1601 Weyland Dr # 3-0217,"North Richland Hills, TX 76180",Apartment,1426,1,1,909
+76180,1601 Weyland Dr # 1-2076,"North Richland Hills, TX 76180",Apartment,1164,1,1,680
+76180,1601 Weyland Dr # 2-1906,"North Richland Hills, TX 76180",Apartment,1037,1,1,568
+76180,1601 Weyland Dr # 1-1053,"North Richland Hills, TX 76180",Apartment,1182,1,1,680
+76180,1601 Weyland Dr # 2-0307,"North Richland Hills, TX 76180",Apartment,1423,1,1,874
+76180,1601 Weyland Dr # 3-0375,"North Richland Hills, TX 76180",Apartment,1287,1,1,752
+76180,7731 N College Cir # 7708D,"North Richland Hills, TX 76180",Apartment,1804,3,2,1340
+76180,6424 Iron Horse Blvd # 19B,"North Richland Hills, TX 76180",Apartment,1478,2,2,884
+76180,6100 Ashbury St # 9104,"North Richland Hills, TX 76180",Apartment,2125,2,2,1131
+76180,6100 Ashbury St # 6204,"North Richland Hills, TX 76180",Apartment,2130,2,2,1082
+76180,6100 Ashbury St Apt 2317,"North Richland Hills, TX 76180",Apartment,2415,2,2,1131
+76180,6100 Ashbury St Apt 3224,"North Richland Hills, TX 76180",Apartment,2595,3,2,1470
+76180,6100 Ashbury St # 9212,"North Richland Hills, TX 76180",Apartment,2690,3,2,1389
+38261,1203 S Second St,"Union City, TN 38261",House,850,2,1,940
+38261,105 E Lee St,"Union City, TN 38261",Apartment,575,1,1,
+38261,605 N 5th St,"Union City, TN 38261",Apartment,750,1,1,560
+38261,407 North Dr,"Union City, TN 38261",House,650,2,1,1998
+38261,1732 Stone St,"Union City, TN 38261",Apartment,725,1,1,648
+38261,1732 Stone St,"Union City, TN 38261",Apartment,850,3,2,1150
+68137,15363 Holmes Plz,"Omaha, NE 68137",Apartment,Contact For Price,1 - 2,1 - 2,800 - 1100
+68137,5410 S 111th Plz,"Omaha, NE 68137",Apartment,1153,1,1,780
+68137,5410 S 111th Plz,"Omaha, NE 68137",Apartment,1501,2,2,1110
+68137,14823 Holmes St,"Omaha, NE 68137",House,2000,3,2.5,1482
+68137,6855 S 118th St,"Omaha, NE 68137",Apartment,1740,Studio+,1,300
+68137,14552 Karen St,"Omaha, NE 68137",House,2000,3,2.5,1681
+68137,14536 L St,"Omaha, NE 68137",House,1900,3,1,1088
+68137,14134 O St,"Omaha, NE 68137",House,1800,3,1,904
+68137,6605 S 135th St,"Omaha, NE 68137",House,2800,4,3,2450
+68137,15412 Y St,"Omaha, NE 68137",House,2200,4,3,1212
+68137,11025 M St,"Omaha, NE 68137",Apartment,885,Studio,1,565
+68137,11025 M St,"Omaha, NE 68137",Apartment,1150,2,2,1143
+68137,11207 Roxbury Dr Unit 2,"Omaha, NE 68137",Duplex/Triplex,1650,2,1.5,1242
+68137,15551 Adams St Apt 101,"Omaha, NE 68137",Apartment,924,1,1,843
+68137,4859 S 132nd Ave,"Omaha, NE 68137",Apartment,985,2,1,850
+68137,10985 Roxbury Plz,"Omaha, NE 68137",Apartment,850,1,1,725
+68137,10985 Roxbury Plz,"Omaha, NE 68137",Apartment,1050,2,2,1075
+68137,12727 Woodcrest Plz,"Omaha, NE 68137",Condo,2500,3,2,1508
+68137,6601 S 108th Ct,"Omaha, NE 68137",Apartment,1075,1,1,830
+68137,6601 S 108th Ct,"Omaha, NE 68137",Apartment,1325,2,2,1047
+68137,12775 Woodcrest Plz,"Omaha, NE 68137",Apartment,925,1,1,750
+68137,12775 Woodcrest Plz,"Omaha, NE 68137",Apartment,1195,2,2,1100
+68137,12230 Anne St,"Omaha, NE 68137",Apartment,895,1,1,650
+68137,12230 Anne St,"Omaha, NE 68137",Apartment,955,2,1,850
+50220,2908 Kading Rd,"Perry, IA 50220",Apartment,875,3,1,1008
+71602,106 W Little Ln,"White Hall, AR 71602",Apartment,850,3,2,1100
+71602,19 Carol St,"White Hall, AR 71602",House,800,2,1,1000
+71602,1715 Bush St,"Pine Bluff, AR 71602",House,1100,3,1,1945
+71602,9 W Malcomb St,"Pine Bluff, AR 71602",House,750,2,1,898
+71602,5105 Bullock St,"Pine Bluff, AR 71602",Other,650,2,1,758
+71602,1002 N Hemlock St,"Pine Bluff, AR 71602",Apartment,475,1,1,
+71602,6003 6005 Windham St,"Pine Bluff, AR 71602",Apartment,595,2,1,660
+04102,812 Congress St Apt 1,"Portland, ME 04102",Apartment,1800,1,1,525
+04102,812 Congress St Apt 4,"Portland, ME 04102",Apartment,2057,2,1,620
+04102,31 Frederic St Apt 5,"Portland, ME 04102",Apartment,2434,3,1,1405
+04102,216 Brighton Ave,"Portland, ME 04102",Apartment,1348,1,1,445
+30161,8 Thomas Rd NE,"Rome, GA 30161",House,895,2,2,
+30161,307 Clark Dr SE,"Rome, GA 30161",House,2800,4,4,2419
+30161,9A Dodd Blvd SE,"Rome, GA 30161",House,950,2,1,800
+30161,416 E 20th St SW,"Rome, GA 30161",House,1150,3,2,1056
+30161,109 E 15th St SW,"Rome, GA 30161",House,1450,3,1,1422
+30161,200 E 12th St SW,"Rome, GA 30161",Apartment,900,2,1,
+30161,2634 N Broad St Ext NE,"Rome, GA 30161",House,2195,3,2,1701
+30161,513 Wilson Ave SW,"Rome, GA 30161",Apartment,1100,3,1,
+30161,24 Coventry Dr SE,"Rome, GA 30161",House,2795,4,3.5,3152
+30161,71 Vocational Dr SW,"Rome, GA 30161",Apartment,1450,3,2,1638
+30161,1211 Spring Creek St SW Unit B,"Rome, GA 30161",Duplex/Triplex,1200,2,1,950
+30161,18 E 10th St SW,"Rome, GA 30161",House,1100,2,1,
+30161,240 Broad St Unit B,"Rome, GA 30161",Apartment,1800,2,2,1300
+30161,5 Hickory St Ne Hickory St Unit 5,"Rome, GA 30161",House,1125,3,1,900
+30161,21 Chateau Dr SE,"Rome, GA 30161",Apartment,775,1 - 2,1 - 2,316
+35077,814 Mark St SW,"Cullman, AL 35055",House,1250,9,2,1300
+35077,2125 Sullivan Dr SW,"Cullman, AL 35055",House,1795,4,2,1620
+35077,2158 Ellsworth Loop Rd SW,"Cullman, AL 35055",House,1795,4,2,1620
+35077,2134 Sullivan Dr SW,"Cullman, AL 35055",House,1950,5,3,2124
+35077,2139 Sullivan Dr SW,"Cullman, AL 35055",House,1950,5,3,2124
+35077,2150 Ellsworth Loop Rd SW,"Cullman, AL 35055",House,1795,3,2,1801
+35077,2136 Sullivan Dr SW,"Cullman, AL 35055",House,1745,3,2,1613
+35077,2124 Ellsworth Loop Rd SW,"Cullman, AL 35055",House,1745,3,2,1613
+35077,2118 Ellsworth Loop Rd SW,"Cullman, AL 35055",House,1745,3,2,1613
+35077,2156 Ellsworth Loop Rd SW,"Cullman, AL 35055",House,1745,3,2,1613
+35077,2128 Ellsworth Loop Rd SW,"Cullman, AL 35055",House,1745,3,2,1613
+35077,61 County Road 1702,"Cullman, AL 35058",House,1850,4,2.5,1900
+35077,2120 Ellsworth Loop Rd SW,"Cullman, AL 35055",House,1895,4,2.5,1906
+35077,2142 Sullivan Dr SW,"Cullman, AL 35055",House,1895,4,2.5,1906
+35077,2117 Ellsworth Loop Rd SW,"Cullman, AL 35055",House,1895,4,2.5,1906
+35077,2141 Sullivan Dr SW,"Cullman, AL 35055",House,1895,4,2.5,1906
+94580,16201 Hesperian Blvd,"San Lorenzo, CA 94580",Apartment,1900,1,1,
+94580,16201 Hesperian Blvd,"San Lorenzo, CA 94580",Apartment,2450,2,1,
+94580,16183 Ashland Ave,"Ashland, CA 94580",Apartment,2095,1,1,592
+94580,16183 Ashland Ave,"Ashland, CA 94580",Apartment,2595,3,1,1003
+94580,15700 Washington Ave,"San Lorenzo, CA 94580",Apartment,2700,2 - 3,1 - 2.5,700 - 1048
+94580,627 Via Alamo,"San Lorenzo, CA 94580",House,2600,3,1,1400
+94580,Delano St,"Ashland, CA 94580",House,1520,1,1,490
+94580,1992 Bandoni Ave,"San Lorenzo, CA 94580",House,4200,4,2,1840
+94580,37 Paseo Grande Apt D,"San Lorenzo, CA 94580",Townhome,2800,2,1.5,1056
+94580,103 E Lewelling Blvd Apt 2,"San Lorenzo, CA 94580",Apartment,2400,2,2,780
+65301,108 W Pacific St Apt 303,"Sedalia, MO 65301",House,1795,2,2,1218
+65301,1100 S Grand Ave,"Sedalia, MO 65301",Apartment,750,2,1,900
+65301,1604 S Brown Ave Unit 1604,"Sedalia, MO 65301",House,975,2,1,1080
+78155,3063 N Highway 123 Byp,"Seguin, TX 78155",Apartment,1173,1,1,539
+78155,3063 N Highway 123 Byp,"Seguin, TX 78155",Apartment,1414,3,2,1311
+78155,1180/1182 FM 2623,"Seguin, TX 78155",Apartment,1425,3,2,
+78155,1180/1182 FM 2623,"Seguin, TX 78155",Apartment,1550,3,2,
+78155,1439 Barnes Dr,"Seguin, TX 78155",Apartment,1128,Studio,1,552
+78155,1439 Barnes Dr,"Seguin, TX 78155",Apartment,1705,3,2,1050
+78155,5933 Antonio Pl,"Seguin, TX 78155",House,1790,3,2,1440
+78155,5816 Antonio Pl,"Seguin, TX 78155",House,1790,3,2,1440
+78155,1111 State Highway 123 Byp N,"Seguin, TX 78155",Apartment,1225,Studio,1,400
+78155,1111 State Highway 123 Byp N,"Seguin, TX 78155",Apartment,1450,2,2,954
+78155,5902 Antonio Pl,"Seguin, TX 78155",House,1790,3,2,1266
+78155,728 Newton Ave,"Seguin, TX 78155",House,1595,3,2,1298
+78155,171 Greenway Dr,"Seguin, TX 78155",House,1775,3,2,1600
+78155,907 Liberty Ave,"Seguin, TX 78155",House,1550,3,2,1090
+78155,5804 San Geronimo,"New Berlin, TX 78155",House,1945,3,2,1440
+78155,706 Schuessler St,"Seguin, TX 78155",House,1650,3,2,1298
+78155,917 8th St,"Seguin, TX 78155",House,1650,3,2,1298
+78155,224 Club Vw W,"Seguin, TX 78155",House,1850,2,2,
+78155,161 Forest Dr,"Seguin, TX 78155",House,1800,3,2,1392
+78155,233 Sandy Oaks Dr,"Seguin, TX 78155",Other,1600,3,2,1848
+78155,2717 Coral Vly,"Seguin, TX 78155",House,1795,3,2,1474
+78155,5835 Antonio Pl,"Seguin, TX 78155",House,1930,4,2,1627
+78155,5914 Antonio Pl,"Seguin, TX 78155",House,1930,4,2,1627
+78155,5906 Antonio Pl,"Seguin, TX 78155",House,1930,4,2,1627
+78155,938 Reiley House Rd Unit Guest,"Seguin, TX 78155",House,1775,1,1,1024
+78155,1000 Boenig St,"Seguin, TX 78155",House,2500,3,2,1534
+78155,100 Paseo Del Rio,"Seguin, TX 78155",House,3500,3,3.5,3144
+78155,3420 Lindsay Ln,"Seguin, TX 78155",House,1695,3,2.5,1344
+78155,440 Sunrise Park,"Seguin, TX 78155",House,2595,4,2,2898
+78155,721 Peak Pl,"Seguin, TX 78155",House,2099,3,2.5,2210
+78155,2121 Lakewood Dr,"Seguin, TX 78155",House,2000,3,2,2160
+78155,838 Saint James,"Seguin, TX 78155",House,2095,4,2,
+78155,4109 Paddock Trl,"Seguin, TX 78155",House,1895,3,2,1408
+78155,1952 Highland,"Seguin, TX 78155",House,2695,3,2.5,2574
+78155,3436 Scott Cir,"Seguin, TX 78155",Other,1550,3,2,1372
+78155,5921 Antonio Pl,"Seguin, TX 78155",House,1995,3,2,1440
+78155,311 Chisholm Trl,"Seguin, TX 78155",House,2030,3,2.5,1752
+78155,2521 Ayers Dr,"Seguin, TX 78155",House,1950,4,3,2394
+78155,3945 Far Horizon,"Seguin, TX 78155",House,1795,3,2,1474
+78155,1122 Renee Way Unit 1,"Seguin, TX 78155",House,1600,3,2,1372
+78155,5807 San Geronimo,"Seguin, TX 78155",House,1695,3,2,1293
+78155,621 Grayson Ln,"Seguin, TX 78155",House,1625,3,2,1372
+78155,3713 Donald Dr,"Seguin, TX 78155",House,2050,3,2,1472
+78155,609 Ashers Pl,"Seguin, TX 78155",House,1625,3,2,1344
+78155,816 Beacon Hts,"Seguin, TX 78155",House,1895,3,2,1688
+78155,1068 Dumfries Dr,"Seguin, TX 78155",House,2100,4,2.5,2069
+78155,161 Forest Dr,"Seguin, TX 78155",House,1800,3,2,1392
+78155,706 Schuessler St,"Seguin, TX 78155",House,1650,3,2,1298
+78155,5804 San Geronimo,"New Berlin, TX 78155",House,1945,3,2,1440
+78155,917 8th St,"Seguin, TX 78155",House,1650,3,2,1298
+78155,171 Greenway Dr,"Seguin, TX 78155",House,1775,3,2,1600
+78155,907 Liberty Ave,"Seguin, TX 78155",House,1550,3,2,1090
+78155,625 Grayson Ln,"Seguin, TX 78155",House,1595,3,2,
+78155,2717 Coral Vly,"Seguin, TX 78155",House,1795,3,2,1474
+78155,526 E Baxter St,"Seguin, TX 78155",Duplex/Triplex,1495,3,2,1255
+78155,3412 Lindsay Ln,"Seguin, TX 78155",Other,1625,3,2.5,1280
+78155,610 Heathers Way,"Seguin, TX 78155",House,1625,3,2,1372
+78155,130 Lee St,"Seguin, TX 78155",Other,2495,5,2,2364
+78155,1180/1182 FM 2623,"Seguin, TX 78155",Apartment,1425,3,2,
+78155,1180/1182 FM 2623,"Seguin, TX 78155",Apartment,1550,3,2,
+78155,355 Pine Meadow Rd,"Seguin, TX 78155",Other,1700,3,2,1920
+78155,2521 Ayers Dr,"Seguin, TX 78155",House,1950,4,3,2394
+78155,2121 Lakewood Dr,"Seguin, TX 78155",House,2000,3,2,2160
+78155,1115 Burek Cross,"Seguin, TX 78155",Duplex/Triplex,1550,3,2,1372
+78155,755 Country Club Dr Apt 4,"Seguin, TX 78155",Duplex/Triplex,1150,2,1,816
+78155,610 E Krezdorn St,"Seguin, TX 78155",House,1795,3,1,1106
+78155,1000 Boenig St,"Seguin, TX 78155",House,2500,3,2,1534
+78155,9120 Bowie Rdg,"Seguin, TX 78155",House,1695,3,2,1275
+78155,1120 N King St Apt 205,"Seguin, TX 78155",Apartment,1375,2,1,19824
+78155,1120 N King St Apt 109,"Seguin, TX 78155",Apartment,1375,2,1,19824
+78155,724 Stonemanor Bay,"Seguin, TX 78155",House,2100,4,2,1969
+78155,100 Paseo Del Rio,"Seguin, TX 78155",House,3500,3,3.5,3144
+78155,128 Lakeside Dr,"Seguin, TX 78155",House,4000,3,3,2500
+78155,1113-1115 Burek Cross,"Seguin, TX 78155",Apartment,1550,3,2,1372
+78155,2712 Iberia Ct,"Seguin, TX 78155",House,2495,4,2.5,2069
+78155,2709 Iberia Ct,"Seguin, TX 78155",House,2195,3,2,1910
+78155,3420 Lindsay Ln,"Seguin, TX 78155",House,1695,3,2.5,1344
+78155,2713 Iberia Ct,"Seguin, TX 78155",House,1895,3,2,1459
+78155,311 Chisholm Trl,"Seguin, TX 78155",House,2030,3,2.5,1752
+78155,408-410 Hudson St,"Seguin, TX 78155",Apartment,1475,3,2,1076
+78155,1180/1182 FM 2623,"Seguin, TX 78155",Apartment,1425,3,2,
+78155,621 Grayson Ln,"Seguin, TX 78155",House,1625,3,2,1372
+78155,331 W Nolte St,"Seguin, TX 78155",House,2695,4,2,2435
+78155,723 Monarch Dr,"Seguin, TX 78155",House,1945,4,2,1680
+78155,113 W Shelby St,"Seguin, TX 78155",House,2300,3,2,1260
+78155,1120-1122 Burek Cross,"Seguin, TX 78155",Apartment,1550,3,2,1372
+78155,213 Gather,"Seguin, TX 78155",House,1895,3,2,1566
+78155,8923 Rancher Pl,"Seguin, TX 78155",House,2400,5,3.5+,2800
+78155,2440 Ayers Dr,"Seguin, TX 78155",House,1995,4,2.5,2094
+78155,3412 Scott Cir,"Seguin, TX 78155",House,1695,3,2,1372
+78155,235 Mar Hill St,"Seguin, TX 78155",House,1750,3,2,1200
+78155,508 Pitts St,"Seguin, TX 78155",House,1399,3,1,973
+78155,610 Heathers Way,"Seguin, TX 78155",House,1625,3,2,1372
+78155,1180/1182 FM 2623,"Seguin, TX 78155",Apartment,1495,3,2,
+78155,1180/1182 FM 2623,"Seguin, TX 78155",Apartment,1550,3,2,
+78155,120 Navarro Xing Unit 2A,"Seguin, TX 78155",Condo,1695,3,2,1136
+78155,2704 Iberia Ct,"Seguin, TX 78155",House,2230,3,2,1911
+78155,1153 Magnolia St,"Seguin, TX 78155",Duplex/Triplex,1450,3,2,980
+78155,1111 N Highway 123 Byp,"Seguin, TX 78155",Condo/Townhome,891,Studio+,1,400
+78155,1180/1182 FM 2623,"Seguin, TX 78155",Apartment,1425,3,2,
+78155,1129-1131 Stanley Way,"Seguin, TX 78155",Apartment,1550,3,2,1372
+78155,321 Blanks St,"Seguin, TX 78155",Apartment,1165,3,1,
+78155,132 Navarro Xing,"Seguin, TX 78155",Other,1920,3,2,1136
+78155,1231 W Court St,"Seguin, TX 78155",Apartment,909,1,1,815
+78155,1231 W Court St,"Seguin, TX 78155",Apartment,1401,4,2,1591
+78155,1151 Magnolia,"Seguin, TX 78155",Other,1450,3,2,960
+78155,176 Navarro Crossing Navarro Xing Unit 176,"Seguin, TX 78155",Duplex/Triplex,1950,3,2,1136
+78155,1180/1182 FM 2623,"Seguin, TX 78155",Apartment,1425,3,2,
+78155,1180/1182 FM 2623,"Seguin, TX 78155",Apartment,1550,3,2,
+78155,1115 Burek Cross,"Seguin, TX 78155",Duplex/Triplex,1550,3,2,1372
+78155,130 Lee St,"Seguin, TX 78155",Other,2495,5,2,2364
+78155,1113-1115 Burek Cross,"Seguin, TX 78155",Apartment,1550,3,2,1372
+78155,1148-1150 Stanley Way,"Seguin, TX 78155",Apartment,1550,3,2,1372
+78155,800 N State Highway 123 Byp,"Seguin, TX 78155",Apartment,652,1,1,
+78155,609-611 Ashers Pl,"Seguin, TX 78155",Apartment,1625,3,2,1372
+78155,300 Milam St,"Seguin, TX 78155",Apartment,1150,2,1,6480
+78155,526-528 E Baxter St,"Seguin, TX 78155",Apartment,1495,3,2,1255
+78155,1237 Jefferson Ave Unit 407,"Seguin, TX 78155",Duplex/Triplex,1325,3,2,1063
+78155,1120-1122 Burek Cross,"Seguin, TX 78155",Apartment,1550,3,2,1372
+78155,409-411 Hudson St,"Seguin, TX 78155",Apartment,1475,3,2,1076
+78155,817 N River St Unit 1,"Seguin, TX 78155",Apartment,800,1,1,400
+78155,408-410 Hudson St,"Seguin, TX 78155",Apartment,1475,3,2,1076
+78155,625 Grayson Ln,"Seguin, TX 78155",House,1595,3,2,
+78155,111 Prexy Dr Apt 108,"Seguin, TX 78155",Apartment,850,2,1,570
+78155,1644 N Camp St,"Seguin, TX 78155",House,1500,3,2,1120
+78155,3412 Lindsay Ln,"Seguin, TX 78155",Other,1625,3,2.5,1280
+78155,526 E Baxter St,"Seguin, TX 78155",Duplex/Triplex,1495,3,2,1255
+37160,221 Lane Pkwy,"Shelbyville, TN 37160",House,2500,Studio,0.5+,2190
+37160,609 Landers St,"Shelbyville, TN 37160",Apartment,1020,2,1,977
+37160,1404 N Main St,"Shelbyville, TN 37160",House,1500,Studio,0.5+,800
+37160,1404 N Main St,"Shelbyville, TN 37160",House,3000,Studio,0.5+,2000
+37160,1404 N Main St,"Shelbyville, TN 37160",House,2500,Studio,0.5+,1500
+37160,102 Pacific Ave,"Shelbyville, TN 37160",House,2200,3,2,2171
+37160,1114 Old Nashville Dirt Rd,"Shelbyville, TN 37160",House,1750,4,2,1590
+37160,1404 N Main St,"Shelbyville, TN 37160",House,700,Studio,0.5+,250
+37160,301 Ligon Dr,"Shelbyville, TN 37160",Apartment,1130,Studio - 2,1,300 - 790
+37160,111 Townsend Ave,"Shelbyville, TN 37160",Townhome,1995,3,2.5,1654
+37160,207 Canova Dr,"Shelbyville, TN 37160",House,1500,3,2,1100
+37160,120 Townsend Ave Unit 6,"Shelbyville, TN 37160",House,2500,3,2.5,1654
+37160,115 Boardwalk Way,"Shelbyville, TN 37160",House,1500,3,2,1400
+37160,210A Buffalo Valley Ct,"Shelbyville, TN 37160",Other,1250,2,1,740
+37160,135 Townsend Ave,"Shelbyville, TN 37160",Condo,2000,3,2.5,1933
+37160,2318 Highway 82 S,"Shelbyville, TN 37160",House,2000,3,2,2600
+37160,120 Townsend Ave,"Shelbyville, TN 37160",Townhome,2500,3,2.5,1654
+37160,302 Fairway Grn,"Shelbyville, TN 37160",House,1550,3,2,1120
+37160,113 Blue Grass Dr,"Shelbyville, TN 37160",House,1895,3,2,1450
+37160,125 Sunlite Rd,"Shelbyville, TN 37160",Apartment,660,2,2,1050
+37160,125 Sunlite Rd,"Shelbyville, TN 37160",Apartment,710,3,2,1244
+37160,807 Belmont Ave Apt A,"Shelbyville, TN 37160",Apartment,1200,2,1,650
+75090,1600 LA Salle Dr,"Sherman, TX 75090",Apartment,799,Studio,1,475
+75090,1600 LA Salle Dr,"Sherman, TX 75090",Apartment,999,2,2,900
+75090,519 E Evergreen St,"Sherman, TX 75090",House,1710,Studio,2,1342
+75090,604 Broughton,"Sherman, TX 75090",House,1595,3,2,1230
+75090,1202 El Sol Blvd,"Sherman, TX 75090",House,1850,3,2,1585
+75090,822 N Throckmorton St,"Sherman, TX 75090",House,1695,3,2,1288
+75090,600 N Montgomery St,"Sherman, TX 75090",House,1300,3,2,1200
+75090,221 E Brockett St,"Sherman, TX 75090",House,1800,3,2,1512
+75090,902 S Montgomery St,"Sherman, TX 75090",House,1650,3,2,976
+75090,122 N Harrison Ave,"Sherman, TX 75090",House,1350,2,1,1191
+75090,516 N Burdette Ave,"Sherman, TX 75090",House,2450,5,3,1754
+75090,814 N Walnut St,"Sherman, TX 75090",House,1425,3,2,1450
+75090,516 N Elliott St,"Sherman, TX 75090",House,1395,3,1,836
+75090,1 Peachtree Pl,"Sherman, TX 75090",House,2100,3,2,1838
+75090,307 W King St,"Tom Bean, TX 75090",House,1300,2,1,880
+75090,815 S Willow St,"Sherman, TX 75090",House,1495,4,2,1670
+75090,816 E McGee St,"Sherman, TX 75090",House,1450,3,2,1063
+75090,2017 S Montgomery St,"Sherman, TX 75090",House,1600,3,2,1260
+75090,620 S Charles St Unit 620,"Sherman, TX 75090",Other,1375,3,2,1415
+75090,945 N Montgomery St,"Sherman, TX 75090",House,1750,4,2,1321
+75090,1125 N Harrison Ave,"Sherman, TX 75090",Other,1200,2,1,1275
+75090,2303 Sidney Ln,"Sherman, TX 75090",House,2300,3,2,1680
+75090,117 W Wilson Ave Unit 119,"Sherman, TX 75090",Other,1350,3,2,1233
+75090,806 N Throckmorton St,"Sherman, TX 75090",Other,1425,3,2,1255
+75090,604 N Broughton St,"Sherman, TX 75090",Other,1595,3,2,1230
+75090,801 E Spring St Unit 803,"Sherman, TX 75090",House,1250,2,1,810
+75090,1328 S Travis St Unit 1328,"Sherman, TX 75090",Apartment,1050,2,1,956
+75090,405 N Carr Ave,"Sherman, TX 75090",House,1290,2,1,832
+75090,2006 S Travis St Apt B,"Sherman, TX 75090",Other,795,1,1,500
+75090,119 W Wilson Ave Unit 119,"Sherman, TX 75090",Apartment,1350,3,2,1233
+75090,216 E Cherry St Unit 216,"Sherman, TX 75090",Duplex/Triplex,1597,3,2,1600
+75090,3233 Bordeaux St,"Sherman, TX 75090",House,1300,3,2,1600
+75090,300 W Moore St,"Sherman, TX 75090",House,1489,2,2,1388
+75090,1921 Deborah Dr,"Sherman, TX 75090",House,1450,3,1,842
+75090,1704 E King St,"Sherman, TX 75090",House,1425,3,1,1092
+75090,3718 Malibu Dr,"Sherman, TX 75090",Townhome,2200,3,2.5,1755
+75090,1300 El Sol Blvd,"Sherman, TX 75090",House,2800,4,3.5,3048
+75090,5600 Texoma Pkwy,"Sherman, TX 75090",Apartment,1149,2,2,1152
+75090,916 N Throckmorton St Unit 918,"Sherman, TX 75090",Other,1450,3,2,1255
+75090,1108 El Sol Blvd,"Sherman, TX 75090",House,1999,3,2,1717
+75090,1601 East # Fm,"Sherman, TX 75090",Apartment,1229,3,2,1152
+75090,3813 Sky Dr,"Sherman, TX 75090",House,2200,3,2,1736
+75090,311 Tate Cir,"Sherman, TX 75090",House,2000,3,2,1851
+75090,804 E Orange St,"Sherman, TX 75090",House,1475,3,1,1236
+75090,612 S Elm St,"Sherman, TX 75090",Other,1395,2,2,1040
+75090,402 Goliad St,"Sherman, TX 75090",House,1850,3,2,1350
+75090,302 Kansas St,"Sherman, TX 75090",House,1750,4,1.5,1446
+75090,2208 San Jacinto Way,"Sherman, TX 75090",House,1995,3,2,1680
+75090,1105 S Montgomery St,"Sherman, TX 75090",House,1649,3,2,1276
+75090,1125 S Montgomery St,"Sherman, TX 75090",House,2000,4,2,1562
+75090,611 E Carter St,"Sherman, TX 75090",Other,1500,3,2,1256
+75090,818 1/2 N Ross Ave,"Sherman, TX 75090",Other,750,1,1,500
+75090,1233 Beach Blvd,"Sherman, TX 75090",House,2400,4,2,1956
+75090,1500 Linda Dr,"Sherman, TX 75090",House,2195,4,2,2041
+75090,3714 Malibu Dr,"Sherman, TX 75090",Townhome,1850,3,2.5,1745
+75090,104 S Grand Ave,"Sherman, TX 75090",House,1800,3,2,1525
+75090,615 E Carter St,"Sherman, TX 75090",House,1395,3,2,1375
+75090,2306 San Jacinto Way,"Sherman, TX 75090",House,1950,3,2,1680
+75090,907 N Brents Ave Unit 907,"Sherman, TX 75090",Other,1400,3,2,1293
+75090,804 N Broughton St Unit 804,"Sherman, TX 75090",Apartment,1375,3,2,1256
+75090,612 S Elm St,"Sherman, TX 75090",Other,1395,2,2,1040
+75090,402 Goliad St,"Sherman, TX 75090",House,1850,3,2,1350
+75090,302 Kansas St,"Sherman, TX 75090",House,1750,4,1.5,1446
+75090,2208 San Jacinto Way,"Sherman, TX 75090",House,1995,3,2,1680
+75090,1105 S Montgomery St,"Sherman, TX 75090",House,1649,3,2,1276
+75090,1125 S Montgomery St,"Sherman, TX 75090",House,2000,4,2,1562
+75090,611 E Carter St,"Sherman, TX 75090",Other,1500,3,2,1256
+75090,818 1/2 N Ross Ave,"Sherman, TX 75090",Other,750,1,1,500
+75090,1233 Beach Blvd,"Sherman, TX 75090",House,2400,4,2,1956
+75090,1500 Linda Dr,"Sherman, TX 75090",House,2195,4,2,2041
+75090,3714 Malibu Dr,"Sherman, TX 75090",Townhome,1850,3,2.5,1745
+75090,104 S Grand Ave,"Sherman, TX 75090",House,1800,3,2,1525
+75090,615 E Carter St,"Sherman, TX 75090",House,1395,3,2,1375
+75090,2306 San Jacinto Way,"Sherman, TX 75090",House,1950,3,2,1680
+75090,907 N Brents Ave Unit 907,"Sherman, TX 75090",Other,1400,3,2,1293
+75090,804 N Broughton St Unit 804,"Sherman, TX 75090",Apartment,1375,3,2,1256
+64507,3950 South Jackson Drive,"Independence, MO 64507",Apartment,1111,1,1,773
+64507,3950 South Jackson Drive,"Independence, MO 64507",Apartment,1156,2,2,1000
+64507,2509 Duncan St,"Saint Joseph, MO 64507",Apartment,715,Studio,1,469
+64507,2509 Duncan St,"Saint Joseph, MO 64507",Apartment,950,2,2,998
+64507,2431 Patee St,"Saint Joseph, MO 64507",House,1300,4,2,1568
+50588,618 W 6th St,"Storm Lake, IA 50588",House,815,2,2,
+50588,E Milwaukee Ave,"Storm Lake, IA 50588",Apartment,895,3,1,1008
+50588,811 Vestal St,"Storm Lake, IA 50588",House,999,2,1,564
+50588,811 Vestal St,"Storm Lake, IA 50588",House,2500,3,2,980
+68450,950 Lincoln St,"Tecumseh, NE 68450",Apartment,Contact For Price,1 - 3,1,
+72802,303 Ouita Cir,"Russellville, AR 72802",House,1600,3,2,1872
+72802,7062 Highway 64 W # 41,"Russellville, AR 72802",House,4000,3,2,1344
+72802,1224 E Date St,"Russellville, AR 72802",House,1800,4,2,1985
+72802,415 Valley Dr,"Russellville, AR 72802",House,1200,3,1.5,1000
+72704,4234 W Eisenhower Pl,"Fayetteville, AR 72704",Apartment,1600,2 - 3,2.5,1090 - 1289
+72704,2638 W Old Farmington Rd,"Fayetteville, AR 72704",Apartment,1080,Studio+,1,300
+72704,1346 N Corsica Dr,"Fayetteville, AR 72704",House,550,1,1,
+72704,1324 N Corsica Dr,"Fayetteville, AR 72704",House,550,1,1,
+72704,3599 N Tower Cir,"Fayetteville, AR 72704",House,1600,3,2.5,1638
+72704,5040 W Colfax Loop,"Fayetteville, AR 72704",House,2000,3,2.5,2175
+72704,4100 W Chantilly Dr,"Fayetteville, AR 72704",House,1950,3,2,1485
+72704,4758 W Alberta St,"Fayetteville, AR 72704",House,1650,3,2,1453
+72704,6172 W Milliken Bnd,"Fayetteville, AR 72704",House,1695,3,2,1508
+72704,3010 W Millstone Dr,"Fayetteville, AR 72704",House,1850,3,2,1358
+72704,6007 W Irish Bend Dr,"Fayetteville, AR 72704",House,2000,3,2,1691
+72704,700 N Malbec Rd,"Fayetteville, AR 72704",House,2445,4,3.5,2015
+72704,3123 W Woodfield Way,"Fayetteville, AR 72704",House,1550,3,2,1119
+72704,666 N Salem Rd,"Fayetteville, AR 72704",House,2895,4,3.5,2054
+72704,644 N Salem Rd,"Fayetteville, AR 72704",House,2895,4,3.5,2002
+72704,433 N Drewrys Bluff Dr,"Fayetteville, AR 72704",House,2100,3,2,
+72704,3809 W River Bend Dr,"Fayetteville, AR 72704",House,2200,4,2.5,2047
+72704,4694 W Monaco Bnd,"Fayetteville, AR 72704",House,1950,3,2,1450
+72704,49 N Hinsdale Ave,"Fayetteville, AR 72704",House,2000,3,2,1510
+72704,2777 W Emil Dr,"Fayetteville, AR 72704",House,1390,2,2,1480
+72704,632 N Salem Rd,"Fayetteville, AR 72704",House,2895,4,3.5,2054
+72704,545 N Salem Rd,"Fayetteville, AR 72704",House,2500,4,2.5,2252
+72704,2174 N Woodlark Ln,"Fayetteville, AR 72704",House,2600,4,3,2245
+72704,780 N Malbec Rd,"Fayetteville, AR 72704",House,2445,4,2.5,1818
+72704,563 N Salem Rd,"Fayetteville, AR 72704",House,2500,4,3,2197
+72704,751 N Meadowlands Dr,"Fayetteville, AR 72704",House,2000,4,2,1875
+72704,4430 W Anthem Dr,"Fayetteville, AR 72704",House,1895,3,2,1351
+72704,1425 N Pershing St,"Fayetteville, AR 72704",House,2200,4,2,1676
+72704,3544 W Clabber Creek Blvd,"Fayetteville, AR 72704",House,1795,3,2.5,1791
+72704,3151 W Anne St,"Fayetteville, AR 72704",House,1695,3,2,1038
+72704,688 N Honey Locust Bnd,"Fayetteville, AR 72704",House,1395,2,2,694
+72704,664 N Honey Locust Bnd,"Fayetteville, AR 72704",House,1395,2,2,694
+72704,668 N Honey Locust Bnd,"Fayetteville, AR 72704",House,1395,2,2,694
+72704,672 N Honey Locust Bend-Fh Cottages Lot 37,"Fayetteville, AR 72704",House,1395,2,2,694
+72704,1806 N Knollcrest Cir,"Fayetteville, AR 72704",House,1895,4,2,1766
+72704,3320 Blackbird Ter,"Fayetteville, AR 72704",House,1395,2,2,694
+72704,690 N Littleleaf Ter,"Fayetteville, AR 72704",House,1395,2,2,694
+72704,740 N Honey Locust Ave,"Fayetteville, AR 72704",House,1395,2,2,694
+72704,794 N Honey Locust Bnd,"Fayetteville, AR 72704",House,1395,2,2,694
+72704,694 N Littleleaf Ter,"Fayetteville, AR 72704",House,1395,2,2,694
+72704,764 N Honey Locust Bend,"Fayetteville, AR 72704",House,1395,2,2,694
+72704,790 Honey Locust Bnd,"Fayetteville, AR 72704",House,1395,2,2,694
+72704,794 N Honey Locust Bnd,"Fayetteville, AR 72704",House,1395,2,2,694
+72704,4206 W Bronco Dr,"Fayetteville, AR 72704",House,2350,3,2.5,1873
+72704,3819 W Maclura Way,"Fayetteville, AR 72704",House,2500,3,3,1709
+72704,3546 W Foxtail Lily Ln,"Fayetteville, AR 72704",House,1775,3,2,1428
+72704,4371 W Barhem Dr,"Fayetteville, AR 72704",House,1850,3,2,1445
+72704,2995 W Azurite St,"Fayetteville, AR 72704",House,1950,3,2,1480
+72704,4041 W Spring House Dr,"Fayetteville, AR 72704",House,1895,3,2,1337
+72704,3072 N Autumn Rose Ave,"Fayetteville, AR 72704",House,1675,3,2,1352
+72704,5042 W Claxton Cir,"Fayetteville, AR 72704",House,1550,3,2,1424
+72704,3953 W Tanyard Dr,"Fayetteville, AR 72704",House,1900,3,2,1583
+72704,2834 W Emil Dr,"Fayetteville, AR 72704",House,1800,3,2,1480
+72704,5016 W Colfax Loop,"Fayetteville, AR 72704",House,1600,3,2,1234
+72704,4863 W Croft Dr,"Fayetteville, AR 72704",House,1895,3,2,1405
+72704,2912 W Featherock Way,"Fayetteville, AR 72704",House,2600,3,2,2089
+72704,4555 W Wedge Dr,"Fayetteville, AR 72704",House,2550,4,3.5,2473
+72704,4316 W Havana Ave,"Fayetteville, AR 72704",House,1800,3,2,1408
+72704,688 N Salem Rd,"Fayetteville, AR 72704",House,2895,4,3.5,1777
+72704,626 N Salem Rd,"Fayetteville, AR 72704",House,2895,4,3.5,1777
+72704,4178 W Song Bird Pl,"Fayetteville, AR 72704",House,1995,3,2,1800
+72704,5955 W Holdcroft Dr,"Fayetteville, AR 72704",House,1800,3,2,1347
+72704,3089 W Mica St,"Fayetteville, AR 72704",Other,1295,2,2,1240
+72704,4218 W Bronco Dr,"Fayetteville, AR 72704",House,2750,4,3.5,2242
+72704,5967 W Holdcroft Dr,"Fayetteville, AR 72704",House,1800,3,2,1347
+72704,635 N Salem Rd,"Fayetteville, AR 72704",House,2425,4,3.5,1763
+72704,1603 N Oakhaven Pl,"Fayetteville, AR 72704",House,2400,3,2,1526
+72704,2311 N Cornwall Ave,"Fayetteville, AR 72704",House,2275,4,3,2125
+72704,5979 W Holdcroft Dr,"Fayetteville, AR 72704",House,1800,3,2,1347
+72704,5075 W Waverly Rd,"Fayetteville, AR 72704",House,1650,3,2,1772
+72704,718 N Salem Rd,"Fayetteville, AR 72704",House,2895,4,3,2054
+72704,694 N Salem Rd,"Fayetteville, AR 72704",House,2895,4,3,2054
+72704,682 N Salem Rd,"Fayetteville, AR 72704",House,2895,4,3,2002
+72704,730 N Salem Rd,"Fayetteville, AR 72704",House,2895,4,3,2002
+72704,706 N Salem Rd,"Fayetteville, AR 72704",House,2895,4,3,2002
+72704,620 N Salem Rd,"Fayetteville, AR 72704",House,2895,4,3,2002
+72704,5707 Sara St Unit B,"Fayetteville, AR 72704",Other,1225,2,1.5,1034
+72704,5705 Sara St Unit A,"Fayetteville, AR 72704",Other,1295,2,1.5,1034
+72704,2823 W Emil Dr,"Fayetteville, AR 72704",House,2000,4,2,1652
+72704,572 N Salem Rd,"Fayetteville, AR 72704",House,2895,4,3,2054
+72704,4199 W Santa Fe St Unit A,"Fayetteville, AR 72704",Other,2400,3,3.5,1736
+72704,3893 W Albatross Loop,"Fayetteville, AR 72704",House,1725,3,2.5,1400
+72704,1277 N Rupple Rd,"Fayetteville, AR 72704",Other,2100,3,3.5,1703
+72704,779 S Rupple Rd Unit 1,"Fayetteville, AR 72704",Other,2400,3,3.5,1738
+72704,803 S Rupple Rd Unit 2,"Fayetteville, AR 72704",Other,2400,3,3.5,1738
+72704,803 S Rupple Rd Unit 1,"Fayetteville, AR 72704",Other,2400,3,3.5,1738
+72704,779 S Rupple Rd Unit 2,"Fayetteville, AR 72704",Other,2400,3,3.5,1738
+72704,4133 W Santa Maria Ln,"Fayetteville, AR 72704",Other,1950,3,2.5,1830
+72704,1213 N Rupple Rd,"Fayetteville, AR 72704",Townhome,2200,3,3.5,2000
+72704,2578 N Ward Dr,"Fayetteville, AR 72704",Other,2200,3,2.5,1920
+72704,1374 N Chickadee Ave,"Fayetteville, AR 72704",Other,1400,3,2,1162
+72704,124 N Benchmark Ln,"Fayetteville, AR 72704",House,1895,3,2,1260
+72704,801 S Amarillo St Unit 2,"Fayetteville, AR 72704",Townhome,2400,3,3.5,2000
+72704,823 S Amarillo St Unit 1,"Fayetteville, AR 72704",Townhome,2400,3,3.5,2000
+72704,875 S Amarillo St Unit 2,"Fayetteville, AR 72704",Townhome,2400,3,3.5,2000
+72704,801 S Amarillo St Unit 1,"Fayetteville, AR 72704",Townhome,2400,3,3.5,2000
+72704,823 S Amarillo St Unit 2,"Fayetteville, AR 72704",Townhome,2400,3,3.5,2000
+72704,875 S Amarillo St Unit 1,"Fayetteville, AR 72704",Townhome,2400,3,3.5,2000
+72704,4235 Santa Fe St Unit 1,"Fayetteville, AR 72704",Townhome,2400,3,3.5,2000
+72704,4235 Santa Fe St Unit 2,"Fayetteville, AR 72704",Townhome,2400,3,3.5,2000
+72704,4223 W Santa Fe St Unit 2,"Fayetteville, AR 72704",Townhome,2400,3,3.5,2000
+72704,2184 W Moore Ln,"Fayetteville, AR 72704",Townhome,2300,3,2.5,1960
+72704,4090 W Santa Maria Ln,"Fayetteville, AR 72704",Townhome,2100,3,2.5,1703
+72704,1342 N Sicily Ln,"Fayetteville, AR 72704",Townhome,2100,3,2.5,1703
+72704,4356 W Serviceberry Dr,"Fayetteville, AR 72704",House,1400,2,2.5,1187
+72704,1275 N Rupple Rd,"Fayetteville, AR 72704",Other,3000,3,3.5,1703
+72704,754 N Crater Ave,"Fayetteville, AR 72704",Other,2250,3,2.5,1500
+72704,791 S Rupple Rd Unit 2,"Fayetteville, AR 72704",Other,3200,4,4.5,2032
+72704,825 S Rupple Rd Unit 1,"Fayetteville, AR 72704",Other,3200,4,4.5,2032
+72704,791 S Rupple Rd Unit 1,"Fayetteville, AR 72704",Other,3200,4,4.5,2032
+72704,931 S Rupple Rd Unit 2,"Fayetteville, AR 72704",Other,3200,4,4.5,2032
+72704,825 S Rupple Rd Unit 2,"Fayetteville, AR 72704",Other,3200,4,4.5,2032
+72704,679 N Rupple Rd,"Fayetteville, AR 72704",House,1750,3,2.5,1850
+72704,5809 Samantha St,"Fayetteville, AR 72704",Apartment,1395,2,1,1035
+72704,1270 N Corsica Dr,"Fayetteville, AR 72704",Apartment,2250,4,4,2050
+72704,940 S Amarillo Rd Unit 1,"Fayetteville, AR 72704",Townhome,3000,4,4.5,2000
+72704,928 S Amarillo Rd Unit 2,"Fayetteville, AR 72704",Townhome,3000,4,4.5,2000
+72704,943 S Rupple Rd Unit 2,"Fayetteville, AR 72704",Townhome,3000,4,4.5,2000
+72704,956 S Amarillo Rd Unit 2,"Fayetteville, AR 72704",Townhome,3000,4,4.5,2000
+72704,940 S Amarillo Rd Unit 2,"Fayetteville, AR 72704",Townhome,3000,4,4.5,2000
+72704,928 S Amarillo Rd Unit 1,"Fayetteville, AR 72704",Townhome,3000,4,4.5,2000
+72704,956 S Amarillo Rd Unit 1,"Fayetteville, AR 72704",Townhome,3000,4,4.5,2000
+72704,779 S Amarillo Rd Unit 1,"Fayetteville, AR 72704",Townhome,3000,4,4.5,2000
+72704,779 S Amarillo Rd Unit 2,"Fayetteville, AR 72704",Townhome,3000,4,4.5,2000
+72704,4134 W Sardinia Way,"Fayetteville, AR 72704",Apartment,2250,4,4,2000
+72704,3600 W Player Ln,"Fayetteville, AR 72704",Apartment,835,1,1,544
+72704,3600 W Player Ln,"Fayetteville, AR 72704",Apartment,1100,2,2,1178
+72704,6100 S Wilkerson St,"Fayetteville, AR 72704",Apartment,650,2,1,625
+72704,6100 S Wilkerson St,"Fayetteville, AR 72704",Apartment,830,2,1,625
+72704,3092 W Essex Dr,"Fayetteville, AR 72704",House,1300,2,2,912
+72704,4828 W Croft Dr,"Fayetteville, AR 72704",House,1940,3,2,1556
+72704,1939 N Batsford Dr,"Fayetteville, AR 72704",House,2100,4,2,1908
+72704,712 N Salem Rd,"Fayetteville, AR 72704",House,2895,4,3.5,1777
+76384,2600 15th St,"Vernon, TX 76384",House,400,Studio,,1186
+76384,4125 Augusta St,"Vernon, TX 76384",Apartment,Contact For Price,1 - 3,1 - 2,605 - 996
+76384,940-552-2442 4125 Augusta,"Vernon, TX 76384",Apartment,628,2,2,826
+76384,940-552-2442 4125 Augusta,"Vernon, TX 76384",Apartment,758,3,2,996
+08360,890 E Walnut Rd Apt 23,"Vineland, NJ 08360",Apartment,1700,2,2,1212
+08360,890 E Walnut Rd Apt 35,"Vineland, NJ 08360",Apartment,1760,2,2,1212
+08360,890 E Walnut Rd Apt 11,"Vineland, NJ 08360",Apartment,1775,2,2,1212
+08360,890 E Walnut Rd Apt 46,"Vineland, NJ 08360",Apartment,1795,2,2,1212
+08360,733 E Cherry St Unit 1,"Vineland, NJ 08360",Condo,1400,2,1,654
+08360,890 E Walnut Rd Apt 22,"Vineland, NJ 08360",Apartment,1560,1,1,663
+08360,890 E Walnut Rd Apt 38,"Vineland, NJ 08360",Apartment,1560,1,1,663
+08360,890 E Walnut Rd Apt 10,"Vineland, NJ 08360",Apartment,1735,2,2,1097
+08360,890 E Walnut Rd Apt 63,"Vineland, NJ 08360",Apartment,1905,2,2,1212
+08360,890 E Walnut Rd Apt 93,"Vineland, NJ 08360",Apartment,1870,2,2,1097
+08360,890 E Walnut Rd Apt 65,"Vineland, NJ 08360",Apartment,2015,2,2,1212
+08360,890 E Walnut Rd Apt 17,"Vineland, NJ 08360",Apartment,1805,1,1,663
+08360,629 E Montrose St,"Vineland, NJ 08360",Apartment,1100,1,1,
+08360,1117 E Landis Ave,"Vineland, NJ 08360",Townhome,1950,2,2.5,2093
+08360,211 S East Ave,"Vineland, NJ 08360",Apartment,1700,3,1,
+48091,4385 Frazho Rd,"Warren, MI 48091",Apartment,923,1,1,700
+48091,4385 Frazho Rd,"Warren, MI 48091",Apartment,1050,2,1,700
+48091,7544 Lozier Ave,"Warren, MI 48091",House,1250,2,1,
+48091,7103 Jackson Ave,"Warren, MI 48091",House,1100,2,1,800
+48091,1944 Garrick Ave,"Warren, MI 48091",House,975,3,1,944
+48091,7554 Orchard Ave,"Warren, MI 48091",House,1275,3,1,1008
+48091,21769 Ira Blvd,"Warren, MI 48091",House,1550,4,1,1200
+48091,26520 Thomas St,"Warren, MI 48091",House,2000,4,2,1600
+48091,3144 Bart Ave,"Macomb, MI 48091",House,1200,2,1,820
+48091,21012 Blackmar Ave,"Warren, MI 48091",House,1550,3,1.5,900
+48091,20740 Bartholomaei Ave,"Warren, MI 48091",House,1600,5,2,1820
+48091,7209 Toepfer Rd,"Warren, MI 48091",House,975,2,1,1129
+48091,6174 Engleman Ave,"Warren, MI 48091",House,1800,4,2.5,1251
+48091,23925 Eureka Ave,"Warren, MI 48091",House,1600,3,2,1820
+48091,3644 Alvina Ave,"Warren, MI 48091",House,1300,3,1.5,1100
+48091,3358 Poplar Ave,"Warren, MI 48091",House,1400,3,1,1327
+48091,3616 Wasmund Ave,"Warren, MI 48091",Apartment,825,2,1,
+48091,26636 Ryan Rd,"Warren, MI 48091",Apartment,875,1,1,700
+48091,2095 Waltz Ave,"Warren, MI 48091",House,1400,3,1,864
+48091,21052 Syracuse Ave,"Warren, MI 48091",House,1350,3,1,960
+48091,1935 Jarvis Ave Unit 2,"Warren, MI 48091",Apartment,825,1,1,500
+48091,21044 Syracuse Ave,"Warren, MI 48091",House,1250,3,1,950
+48091,21516 Dequindre Rd,"Warren, MI 48091",Apartment,770,1,1,725
+48091,21516 Dequindre Rd,"Warren, MI 48091",Apartment,900,2,1,950
+50703,500-514 Pine St,"Waterloo, IA 50703",Apartment,700,2,1,608 - 1216
+50703,500-514 Pine St,"Waterloo, IA 50703",Apartment,775,2,1,608 - 1216
+50703,76 Mulberry St,"Waterloo, IA 50703",Apartment,500,1,1,
+50703,76 Mulberry St,"Waterloo, IA 50703",Apartment,675,2,1,
+50703,321 E 1st St,"Waterloo, IA 50703",Apartment,575,1,1,645
+50703,1322 Northey St,"Waterloo, IA 50703",House,1600,5,2,1800
+50703,405 W Donald St,"Waterloo, IA 50703",Apartment,750,2,1,750
+50703,405 W Donald St,"Waterloo, IA 50703",Apartment,850,3,1,960
+50703,230 Polk St,"Waterloo, IA 50703",House,725,3,1,992
+50703,913 Dawson St,"Waterloo, IA 50703",House,750,3,1,
+50703,427 Boston Ave,"Waterloo, IA 50703",House,650,2,1,640
+50703,259 Madison St,"Waterloo, IA 50703",House,750,2,1,816
+50703,223 Madison St,"Waterloo, IA 50703",House,750,2,1,816
+50703,609 Leonard Ave,"Waterloo, IA 50703",House,725,1,1,628
+50703,645 Wyoming St,"Waterloo, IA 50703",House,595,1,1,480
+50703,538 Conger St,"Waterloo, IA 50703",House,595,1,1,756
+50703,506 Fowler St,"Waterloo, IA 50703",House,725,2,1.5,1047
+50703,52 1/2 Franklin St,"Waterloo, IA 50703",House,525,1,1,718
+50703,314 Lester St Apt 1,"Waterloo, IA 50703",House,425,1,1,
+50703,628 Sycamore St # 2,"Waterloo, IA 50703",Condo,1400,2,2,
+50703,628 Sycamore St # 1,"Waterloo, IA 50703",Condo,1400,2,2,
+50703,309 Franklin St,"Waterloo, IA 50703",Apartment,630,2,1,
+50703,924 Sycamore St Apt 1,"Waterloo, IA 50703",Apartment,1225,2,2,1054
+50703,401 E 1st St Unit C,"Waterloo, IA 50703",Duplex/Triplex,700,2,1,620
+50703,202 Independence Ave Unit 202,"Waterloo, IA 50703",Townhome,725,2,1,690
+50703,310 E 2nd St,"Waterloo, IA 50703",Apartment,550,1,1,400
+50703,310 E 2nd St,"Waterloo, IA 50703",Apartment,600,1,1,400
+50703,204 Independence Ave Unit 1,"Waterloo, IA 50703",Townhome,725,2,1,690
+50703,1109 Sycamore St,"Waterloo, IA 50703",Apartment,525,1,1,
+50703,202 Irving St Unit 202,"Waterloo, IA 50703",Townhome,725,2,1,710
+50703,200 Independence Ave SE Unit 200,"Waterloo, IA 50703",Apartment,725,2,1,660
+50703,218 Mulberry St Unit 2,"Waterloo, IA 50703",Duplex/Triplex,625,2,1,640
+50703,325 E Park Ave,"Waterloo, IA 50703",Apartment,1095,Studio,1,425
+50703,325 E Park Ave,"Waterloo, IA 50703",Apartment,1400,1,1,649
+50703,520 Lafayette St Apt A,"Waterloo, IA 50703",Apartment,750,2,1,800
+50703,410 E 1st St Unit B,"Waterloo, IA 50703",Duplex/Triplex,625,1,1,650
+50703,218 Mulberry St Unit 1,"Waterloo, IA 50703",Duplex/Triplex,750,2,1,620
+68462,8801 Holdrege St,"Lincoln, NE 68505",Apartment,1005,Studio,1,539
+68462,8801 Holdrege St,"Lincoln, NE 68505",Apartment,1975,2,2,1221
+68462,8430 Fremont St,"Lincoln, NE 68507",Apartment,1215,1,1,682
+68462,8430 Fremont St,"Lincoln, NE 68507",Apartment,2165,3,2,1418
+68462,3117 N 90th St,"Lincoln, NE 68507",House,2400,4,4,2000
+68462,88th and Holdrege,"Lincoln, NE 68505",Apartment,2450,4,3.5,1738
+68462,8600 Leighton Ave,"Lincoln, NE 68507",Apartment,720,1,1,770
+68462,8600 Leighton Ave,"Lincoln, NE 68507",Apartment,950,3,2,1307
+28697,734 S Recreation Rd,"Wilkesboro, NC 28697",House,1650,3,2,2043
+49464,8339 Roxburo St,"Zeeland, MI 49464",Apartment,2600,2,2,1127 - 1620
+49464,231 Michigan St,"Zeeland, MI 49464",House,2800,4,2,2146

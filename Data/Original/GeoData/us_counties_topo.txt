@@ -1,0 +1,9 @@
+Accessed at:
+
+https://raw.githubusercontent.com/python-visualization/folium/master/examples/data/us_counties_20m_topo.json
+
+As referenced from:
+
+https://medium.com/analytics-vidhya/create-and-visualize-choropleth-map-with-folium-269d3fd12fa0
+
+On 5-26-23  at 1:30pm
