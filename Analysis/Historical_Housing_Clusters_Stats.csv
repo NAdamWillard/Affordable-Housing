@@ -1,0 +1,5 @@
+,count,median_listing_price,median_listing_price,median_square_feet,median_square_feet,median_listing_price_per_square_foot,median_listing_price_per_square_foot,new_listing_count,new_listing_count,total_listing_count,total_listing_count
+clusters,size,mean,median,mean,median,mean,median,mean,median,mean,median
+typical market,13414,193035.7676,171487.5,1823.466677,1756,105.0258685,97,10.83345758,6,34.86059341,26
+hot market,2986,335780.4967,336955.5,2262.990623,2159,150.5693235,142,62.57066309,56,197.4855995,179
+wealthy market,618,974572.7395,815113.5,3186.943366,3338.5,331.8543689,312.5,28.95145631,26,93.25728155,85
